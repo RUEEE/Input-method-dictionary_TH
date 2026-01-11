@@ -1,0 +1,3865 @@
+name: thd
+version: "2026-01-05"
+sort: by_weight
+...
+博丽灵梦	bo li ling meng	1
+雾雨魔理沙	wu yu mo li sha	1
+露米娅	lu mi ya	1
+大妖精	da yao jing	1
+琪露诺	qi lu nuo	1
+红美铃	hong mei ling	1
+小恶魔	xiao e mo	1
+帕秋莉	pa qiu li	1
+诺蕾姬	nuo lei ji	1
+帕秋莉·诺蕾姬	pa qiu li	1
+十六夜咲夜	shi liu ye xiao ye	1
+蕾米莉亚	lei mi li ya	1
+斯卡蕾特	si ka lei te	1
+蕾米莉亚·斯卡蕾特	lei mi li ya	1
+芙兰朵露	fu lan duo lu	1
+芙兰朵露·斯卡蕾特	fu lan duo lu	1
+蕾蒂	lei di	1
+霍瓦特洛克	huo wa te luo ke	1
+蕾蒂·霍瓦特洛克	lei di	1
+橙	cheng	1
+爱丽丝	ai li si	1
+玛格特洛依德	ma ge te luo yi de	1
+爱丽丝·玛格特洛依德	ai li si	1
+莉莉霍瓦特	li li huo wa te	1
+露娜萨	lu na sa	1
+普莉兹姆利巴	pu li zi mu li ba	1
+露娜萨·普莉兹姆利巴	lu na sa	1
+梅露兰	mei lu lan	1
+梅露兰·普莉兹姆利巴	mei lu lan	1
+莉莉卡	li li ka	1
+莉莉卡·普莉兹姆利巴	li li ka	1
+魂魄妖梦	hun po yao meng	1
+西行寺幽幽子	xi xing si you you zi	1
+八云蓝	ba yun lan	1
+八云紫	ba yun zi	1
+伊吹萃香	yi chui cui xiang	1
+莉格露	li ge lu	1
+奈特巴格	nai te ba ge	1
+莉格露·奈特巴格	li ge lu	1
+米斯蒂娅	mi si di ya	1
+萝蕾拉	luo lei la	1
+米斯蒂娅·萝蕾拉	mi si di ya	1
+上白泽慧音	shang bai ze hui yin	1
+因幡天为	yin fan tian wei	1
+铃仙	ling xian	1
+铃仙·优昙华院·因幡	ling xian	1
+八意永琳	ba yi yong lin	1
+蓬莱山辉夜	peng lai shan hui ye	1
+藤原妹红	teng yuan mei hong	1
+梅蒂欣	mei di xin	1
+梅兰可莉	mei lan ke li	1
+梅蒂欣·梅兰可莉	mei di xin	1
+风见幽香	feng jian you xiang	1
+小野塚小町	xiao ye zhong xiao ting	1
+四季映姬	si ji ying ji	1
+夜摩仙那度	ye mo xian na du	1
+四季映姬·夜摩仙那度	si ji ying ji	1
+秋静叶	qiu jing ye	1
+秋穰子	qiu rang zi	1
+键山雏	jian shan chu	1
+河城荷取	he cheng he qu	1
+犬走椛	quan zou hua	1
+东风谷早苗	dong feng gu zao miao	1
+八坂神奈子	ba ban shen nai zi	1
+洩矢诹访子	xie shi zou fang zi	1
+永江衣玖	yong jiang yi jiu	1
+比那名居天子	bi na ming ju tian zi	1
+琪斯美	qi si mei	1
+黑谷山女	hei gu shan nv	1
+水桥帕露西	shui qiao pa lu xi	1
+星熊勇仪	xing xiong yong yi	1
+古明地觉	gu ming di jue	1
+火焰猫燐	huo yan mao lin	1
+灵乌路空	ling wu lu kong	1
+古明地恋	gu ming di lian	1
+娜兹玲	na zi ling	1
+多多良小伞	duo duo liang xiao san	1
+云山	yun shan	1
+云居一轮	yun ju yi lun	1
+村纱水蜜	cun sha shui mi	1
+寅丸星	yin wan xing	1
+圣白莲	sheng bai lian	1
+封兽鵺	feng shou ye	1
+姬海棠果	ji hai tang guo	1
+幽谷响子	you gu xiang zi	1
+宫古芳香	gong gu fang xiang	1
+霍青娥	huo qing e	1
+苏我屠自古	su wo tu zi gu	1
+物部布都	wu bu bu dou	1
+丰聪耳神子	feng cong er shen zi	1
+二岩猯藏	er yan tuan cang	1
+秦心	qin xin	1
+若鹭姬	ruo lu ji	1
+赤蛮奇	chi man qi	1
+今泉影狼	jin quan ying lang	1
+九十九弁弁	jiu shi jiu bian bian	1
+九十九八桥	jiu shi jiu ba qiao	1
+鬼人正邪	gui ren zheng xie	1
+少名针妙丸	shao ming zhen miao wan	1
+堀川雷鼓	ku chuan lei gu	1
+宇佐见堇子	yu zuo jian jin zi	1
+清兰	qing lan	1
+铃瑚	ling hu	1
+哆来咪	duo lai mi	1
+苏伊特	su yi te	1
+哆来咪·苏伊特	duo lai mi	1
+稀神探女	xi shen tan nv	1
+克劳恩皮丝	ke lao en pi si	1
+纯狐	chun hu	1
+赫卡提亚	he ka ti ya	1
+拉碧斯拉祖利	la bi si la zu li	1
+赫卡提亚·拉碧斯拉祖利	he ka ti ya	1
+依神女苑	yi shen nv yuan	1
+依神紫苑	yi shen zi yuan	1
+爱塔妮缇拉尔瓦	ai ta ni ti la er wa	1
+坂田合欢	ban tian he huan	1
+高丽野阿吽	gao li ye a hong	1
+矢田寺成美	shi tian si cheng mei	1
+尔子田里乃	er zi tian li nai	1
+丁礼田舞	ding li tian wu	1
+摩多罗隐岐奈	mo duo luo yin qi nai	1
+戎璎花	rong ying hua	1
+牛崎润美	niu qi run mei	1
+庭渡久侘歌	ting du jiu cha ge	1
+吉吊八千慧	ji diao ba qian hui	1
+杖刀偶磨弓	zhang dao ou mo gong	1
+埴安神袿姬	zhi an shen gui ji	1
+骊驹早鬼	li ju zao gui	1
+饕餮尤魔	tao tie you mo	1
+豪德寺三花	hao de si san hua	1
+山城高岭	shan cheng gao ling	1
+驹草山如	ju cao shan ru	1
+玉造魅须丸	yu zao mei xu wan	1
+菅牧典	jian mu dian	1
+饭纲丸龙	fan gang wan long	1
+天弓千亦	tian gong qian yi	1
+姬虫百百世	ji chong bai bai shi	1
+孙美天	sun mei tian	1
+三头慧之子	san tou hui zhi zi	1
+天火人血枪	tian huo ren xue qiang	1
+豫母都日狭美	yu mu dou ri xia mei	1
+日白残无	ri bai can wu	1
+尘塚姥芽	chen zhong lao ya	1
+封兽魑魅	feng shou chi mei	1
+道神驯子	dao shen xun zi	1
+维缦	wei man	1
+浅间	qian jian	1
+维缦·浅间	wei man	1
+磐永阿梨夜	pan yong a li ye	1
+渡里贝子	du li bei zi	1
+神玉	shen yu	1
+魅魔	mei mo	1
+菊理	ju li	1
+矜羯罗	jin jie luo	1
+幽幻魔眼	you huan mo yan	1
+依莉斯	yi li si	1
+萨丽爱尔	sa li ai er	1
+玄爷	xuan ye	1
+里香	li xiang	1
+明罗	ming luo	1
+爱莲	ai lian	1
+小兔姬	xiao tu ji	1
+卡娜	ka na	1
+安娜贝拉尔	an na bei la er	1
+卡娜·安娜贝拉尔	ka na	1
+朝仓理香子	chao cang li xiang zi	1
+北白河千百合	bei bai he qian bai he	1
+冈崎梦美	gang qi meng mei	1
+奥莲姬	ao lian ji	1
+胡桃	hu tao	1
+艾丽	ai li	1
+幽香	you xiang	1
+梦月	meng yue	1
+幻月	huan yue	1
+萨拉	sa la	1
+露易兹	lu yi zi	1
+雪	xue	1
+舞	wu	1
+梦子	meng zi	1
+神绮	shen qi	1
+森近霖之助	sen jin lin zhi zhu	1
+桑尼米尔克	sang ni mi er ke	1
+露娜切露德	lu na qie lu de	1
+斯塔萨菲雅	si ta sa fei ya	1
+射命丸文	she ming wan wen	1
+绵月丰姬	mian yue feng ji	1
+绵月依姬	mian yue yi ji	1
+稗田阿求	bai tian a qiu	1
+茨木华扇	ci mu hua shan	1
+本居小铃	ben ju xiao ling	1
+奥野田美宵	ao ye tian mei xiao	1
+宫出口瑞灵	gong chu kou rui ling	1
+宇佐见莲子	yu zuo jian lian zi	1
+玛艾露贝莉	ma ai lu bei li	1
+赫恩	he en	1
+玛艾露贝莉·赫恩	ma ai lu bei li	1
+博丽	bo li	1
+灵梦	ling meng	1
+雾雨	wu yu	1
+魔理沙	mo li sha	1
+十六夜	shi liu ye	1
+咲夜	xiao ye	1
+魂魄	hun po	1
+妖梦	yao meng	1
+西行寺	xi xing si	1
+幽幽子	you you zi	1
+八云	ba yun	1
+伊吹	yi chui	1
+萃香	cui xiang	1
+上白泽	shang bai ze	1
+慧音	hui yin	1
+因幡	yin fan	1
+天为	tian wei	1
+八意	ba yi	1
+永琳	yong lin	1
+蓬莱山	peng lai shan	1
+辉夜	hui ye	1
+藤原	teng yuan	1
+妹红	mei hong	1
+风见	feng jian	1
+小野塚	xiao ye zhong	1
+小町	xiao ting	1
+四季	si ji	1
+静叶	jing ye	1
+穰子	rang zi	1
+河城	he cheng	1
+荷取	he qu	1
+河童	he tong	1
+犬走	quan zou	1
+东风谷	dong feng gu	1
+早苗	zao miao	1
+八坂	ba ban	1
+神奈子	shen nai zi	1
+洩矢	xie shi	1
+诹访子	zou fang zi	1
+永江	yong jiang	1
+衣玖	yi jiu	1
+比那名居	bi na ming ju	1
+天子	tian zi	1
+琪斯	qi si	1
+黑谷	hei gu	1
+山女	shan nv	1
+水桥	shui qiao	1
+帕露西	pa lu xi	1
+星熊	xing xiong	1
+勇仪	yong yi	1
+火焰猫	huo yan mao	1
+灵乌路	ling wu lu	1
+古明地	gu ming di	1
+娜兹	na zi	1
+多多良	duo duo liang	1
+云居	yun ju	1
+一轮	yi lun	1
+村纱	cun sha	1
+水蜜	shui mi	1
+白莲	bai lian	1
+封兽	feng shou	1
+姬海棠	ji hai tang	1
+幽谷	you gu	1
+宫古	gong gu	1
+芳香	fang xiang	1
+青娥	qing e	1
+苏我	su wo	1
+屠自古	tu zi gu	1
+物部	wu bu	1
+布都	bu dou	1
+丰聪耳	feng cong er	1
+猯藏	tuan cang	1
+若鹭	ruo lu	1
+赤蛮	chi man	1
+今泉	jin quan	1
+影狼	ying lang	1
+九十九	jiu shi jiu	1
+弁弁	bian bian	1
+八桥	ba qiao	1
+鬼人	gui ren	1
+正邪	zheng xie	1
+少名	shao ming	1
+针妙丸	zhen miao wan	1
+堀川	ku chuan	1
+雷鼓	lei gu	1
+宇佐见	yu zuo jian	1
+堇子	jin zi	1
+稀神	xi shen	1
+探女	tan nv	1
+克劳恩	ke lao en	1
+皮丝	pi si	1
+依神	yi shen	1
+女苑	nv yuan	1
+紫苑	zi yuan	1
+拉尔瓦	la er wa	1
+合欢	he huan	1
+坂田	ban tian	1
+高丽野	gao li ye	1
+阿吽	a hong	1
+矢田寺	shi tian si	1
+成美	cheng mei	1
+尔子田	er zi tian	1
+里乃	li nai	1
+丁礼田	ding li tian	1
+摩多罗	mo duo luo	1
+隐岐奈	yin qi nai	1
+璎花	ying hua	1
+牛崎	niu qi	1
+润美	run mei	1
+庭渡	ting du	1
+久侘歌	jiu cha ge	1
+吉吊	ji diao	1
+八千慧	ba qian hui	1
+杖刀	zhang dao	1
+偶磨弓	ou mo gong	1
+埴安神	zhi an shen	1
+袿姬	gui ji	1
+骊驹	li ju	1
+早鬼	zao gui	1
+饕餮	tao tie	1
+尤魔	you mo	1
+豪德寺	hao de si	1
+三花	san hua	1
+山城	shan cheng	1
+高岭	gao ling	1
+驹草	ju cao	1
+山如	shan ru	1
+玉造	yu zao	1
+魅须丸	mei xu wan	1
+菅牧	jian mu	1
+饭纲丸	fan gang wan	1
+天弓	tian gong	1
+千亦	qian yi	1
+姬虫	ji chong	1
+百百世	bai bai shi	1
+三头	san tou	1
+慧之子	hui zhi zi	1
+天火人	tian huo ren	1
+血枪	xue qiang	1
+豫母都	yu mu dou	1
+日狭美	ri xia mei	1
+日白	ri bai	1
+残无	can wu	1
+尘塚	chen zhong	1
+姥芽	lao ya	1
+魑魅	chi mei	1
+道神	dao shen	1
+驯子	xun zi	1
+磐永	pan yong	1
+阿梨夜	a li ye	1
+渡里	du li	1
+贝子	bei zi	1
+桑尼	sang ni	1
+露娜	lu na	1
+斯塔	si ta	1
+射命丸	she ming wan	1
+绵月	mian yue	1
+丰姬	feng ji	1
+依姬	yi ji	1
+稗田	bai tian	1
+阿求	a qiu	1
+茨木	ci mu	1
+华扇	hua shan	1
+本居	ben ju	1
+小铃	xiao ling	1
+奥野田	ao ye tian	1
+美宵	mei xiao	1
+宫出口	gong chu kou	1
+瑞灵	rui ling	1
+莲子	lian zi	1
+莉莉白	li li bai	1
+莉莉黑	li li hei	1
+紫妈	zi ma	1
+狗椛	gou hua	1
+小桶	xiao tong	1
+阿燐	a lin	1
+阿空	a kong	1
+恋恋	lian lian	1
+小伞	xiao san	1
+莲妈	lian ma	1
+布嘟嘟	bu du du	1
+神子	shen zi	1
+大狸子	da li zi	1
+人鱼	ren yu	1
+飞头蛮	fei tou man	1
+小碗	xiao wan	1
+蓝兔	lan tu	1
+黄兔	huang tu	1
+大蛾子	da e zi	1
+文文	wen wen	1
+因幡帝	yin fan di	1
+坂田合欢乃	ban tian he huan nai	1
+姬海棠羽立	ji hai tang yu li	1
+梅莉	mei li	1
+渡里妮娜	du li ni na	1
+东方灵异传	dong fang ling yi chuan	1
+东方封魔录	dong fang feng mo lu	1
+东方梦时空	dong fang meng shi kong	1
+东方幻想乡	dong fang huan xiang xiang	1
+东方怪绮谈	dong fang guai qi tan	1
+东方红魔乡	dong fang hong mo xiang	1
+东方妖妖梦	dong fang yao yao meng	1
+东方萃梦想	dong fang cui meng xiang	1
+东方永夜抄	dong fang yong ye chao	1
+东方花映塚	dong fang hua ying zhong	1
+东方风神录	dong fang feng shen lu	1
+东方地灵殿	dong fang di ling dian	1
+东方星莲船	dong fang xing lian chuan	1
+东方绯想天	dong fang fei xiang tian	1
+东方文花帖	dong fang wen hua tie	1
+东方心绮楼	dong fang xin qi lou	1
+东方神灵庙	dong fang shen ling miao	1
+东方辉针城	dong fang hui zhen cheng	1
+东方深秘录	dong fang shen mi lu	1
+东方绀珠传	dong fang gan zhu chuan	1
+东方凭依华	dong fang ping yi hua	1
+东方天空璋	dong fang tian kong zhang	1
+东方鬼形兽	dong fang gui xing shou	1
+东方刚欲异闻	dong fang gang yu yi wen	1
+东方虹龙洞	dong fang hong long dong	1
+东方兽王园	dong fang shou wang yuan	1
+东方锦上京	dong fang jin shang jing	1
+东方香霖堂	dong fang xiang lin tang	1
+东方儚月抄	dong fang meng yue chao	1
+东方求闻史纪	dong fang qiu wen shi ji	1
+东方茨歌仙	dong fang ci ge xian	1
+东方铃奈庵	dong fang ling nai an	1
+东方醉蝶华	dong fang zui die hua	1
+东方智灵奇传	dong fang zhi ling qi chuan	1
+东方三月精	dong fang san yue jing	1
+妖精大战争	yao jing da zhan zheng	1
+幻存神签	huan cun shen qian	1
+东方紫香花	dong fang zi xiang hua	1
+东方外来韦编	dong fang wai lai wei bian	1
+灵异传	ling yi chuan	1
+封魔录	feng mo lu	1
+梦时空	meng shi kong	1
+幻想乡	huan xiang xiang	1
+怪绮谈	guai qi tan	1
+红魔乡	hong mo xiang	1
+妖妖梦	yao yao meng	1
+萃梦想	cui meng xiang	1
+永夜抄	yong ye chao	1
+花映塚	hua ying zhong	1
+风神录	feng shen lu	1
+地灵殿	di ling dian	1
+星莲船	xing lian chuan	1
+绯想天	fei xiang tian	1
+文花帖	wen hua tie	1
+心绮楼	xin qi lou	1
+神灵庙	shen ling miao	1
+辉针城	hui zhen cheng	1
+深秘录	shen mi lu	1
+绀珠传	gan zhu chuan	1
+凭依华	ping yi hua	1
+天空璋	tian kong zhang	1
+鬼形兽	gui xing shou	1
+刚欲异闻	gang yu yi wen	1
+虹龙洞	hong long dong	1
+兽王园	shou wang yuan	1
+锦上京	jin shang jing	1
+香霖堂	xiang lin tang	1
+儚月抄	meng yue chao	1
+求闻史纪	qiu wen shi ji	1
+茨歌仙	ci ge xian	1
+铃奈庵	ling nai an	1
+醉蝶华	zui die hua	1
+智灵奇传	zhi ling qi chuan	1
+三月精	san yue jing	1
+大战争	da zhan zheng	1
+蓬莱人形	peng lai ren xing	1
+莲台野夜行	lian tai ye ye xing	1
+梦违科学世纪	meng wei ke xue shi ji	1
+卯酉东海道	mao you dong hai dao	1
+大空魔术	da kong mo shu	1
+未知之花 魅知之旅	wei zhi zhi hua   mei zhi zhi lv	1
+鸟船遗迹	niao chuan yi ji	1
+伊奘诺物质	yi zang nuo wu zhi	1
+燕石博物志	yan shi bo wu zhi	1
+旧约酒馆	jiu yue jiu guan	1
+虹色的北斗七星	hong se de bei dou qi xing	1
+七夕坂梦幻能	qi xi ban meng huan neng	1
+风之神社	feng zhi shen she	1
+永远之巫女	yong yuan zhi wu nv	1
+东方怪奇谈	dong fang guai qi tan	1
+破邪的小太刀	po xie de xiao tai dao	1
+直到倒地死去的那一刻	zhi dao dao di si qu de na yi ke	1
+星幽剑士	xing you jian shi	1
+鸢尾花	yuan wei hua	1
+魔镜	mo jing	1
+同归于尽	tong gui yu jin	1
+以死相赌	yi si xiang du	1
+远野之森	yuan ye zhi sen	1
+战车娘所做的梦	zhan che niang suo zuo de meng	1
+空白少女	kong bai shao nv	1
+梦消失	meng xiao shi	1
+梦幻游戏	meng huan you xi	1
+魔法决战	mo fa jue zhan	1
+非统一魔法世界论	fei tong yi mo fa shi jie lun	1
+魔法钟爱	mo fa zhong ai	1
+久远之梦	jiu yuan zhi meng	1
+东方的蓝色天空	dong fang de lan se tian kong	1
+永远的满月	yong yuan de man yue	1
+灵人的休息日	ling ren de xiu xi ri	1
+时之风	shi zhi feng	1
+装饰战	zhuang shi zhan	1
+红响曲	hong xiang qu	1
+灵战	ling zhan	1
+少女绮想曲	shao nv qi xiang qu	1
+星之器	xing zhi qi	1
+沉睡的恐怖	chen shui de kong bu	1
+幽梦	you meng	1
+不可不禁止的游戏	bu ke bu jin zhi de you xi	1
+女仆幻想	nv pu huan xiang	1
+可爱的恶魔	ke ai de e mo	1
+幻想的居民	huan xiang de ju min	1
+东方妖恋谈	dong fang yao lian tan	1
+魔法阵	mo fa zhen	1
+梦想时空	meng xiang shi kong	1
+灵天	ling tian	1
+禁忌的魔法	jin ji de mo fa	1
+绯红的少女	fei hong de shao nv	1
+背叛的少女	bei pan de shao nv	1
+可悲的人偶	ke bei de ren ou	1
+世界的尽头	shi jie de jin tou	1
+神话幻想	shen hua huan xiang	1
+不可思议之国的爱丽丝	bu ke si yi zhi guo de ai li si	1
+神社	shen she	1
+永远的乐园	yong yuan de le yuan	1
+灵魂安息之所	ling hun an xi zhi suo	1
+飞翔在夜晚的鸠山	fei xiang zai ye wan de jiu shan	1
+幻想帝都	huan xiang di du	1
+华之幻想	hua zhi huan xiang	1
+红梦之宙	hong meng zhi zhou	1
+天空军团	tian kong jun tuan	1
+斯普特尼克幻夜	si pu te ni ke huan ye	1
+机械马戏团	ji xie ma xi tuan	1
+卡纳维拉尔角的梦幻少女	ka na wei la er jiao de meng huan shao nv	1
+魔法少女十字军	mo fa shao nv shi zi jun	1
+梦机械	meng ji xie	1
+少女神性	shao nv shen xing	1
+幻想科学	huan xiang ke xue	1
+魔女们的舞会	mo nv men de wu hui	1
+魔女们的舞踏会	mo nv men de wu ta hui	1
+二色莲花蝶	er se lian hua die	1
+天鹅绒少女战	tian e rong shao nv zhan	1
+俄耳甫斯的诗	e er fu si de shi	1
+新幻想	xin huan xiang	1
+奥尔良的圣骑士	ao er liang de sheng qi shi	1
+樱花之恋塚	ying hua zhi lian zhong	1
+少女战士	shao nv zhan shi	1
+乙女战士	yi nv zhan shi	1
+神秘的人偶	shen mi de ren ou	1
+酒鬼的雷姆利亚	jiu gui de lei mu li ya	1
+珍奇的上海古牌	zhen qi de shang hai gu pai	1
+神魔讨绮传	shen mo tao qi chuan	1
+灰姑娘的笼子	hui gu niang de long zi	1
+独一无二的投影	du yi wu er de tou ying	1
+日日是红日	ri ri shi hong ri	1
+风神少女	feng shen shao nv	1
+阿礼的孩子	a li de hai zi	1
+因夜失眠	yin ye shi mian	1
+妖精灿烂的样子	yao jing can lan de yang zi	1
+桑尼米尔克的红雾异变	sang ni mi er ke de hong wu yi bian	1
+雪月樱花之国	xue yue ying hua zhi guo	1
+妖怪宇宙旅行	yao guai yu zhou lv xing	1
+绵月的符卡	mian yue de fu ka	1
+可爱的大战争叠奏曲	ke ai de da zhan zheng die zou qu	1
+魔法使的忧郁	mo fa shi de you yu	1
+妖精冒险谭	yao jing mao xian tan	1
+两方世界	liang fang shi jie	1
+神域的捉迷藏生活	shen yu de zhuo mi cang sheng huo	1
+识文解意的爱书人	shi wen jie yi de ai shu ren	1
+比赤色更红的梦	bi chi se geng hong de meng	1
+如鬼灯般的红色之魂	ru gui deng ban de hong se zhi hun	1
+妖魔夜行	yao mo ye xing	1
+活泼的纯情小姑娘	huo po de chun qing xiao gu niang	1
+上海红茶馆	shang hai hong cha guan	1
+明治十七年的上海爱丽丝	ming zhi shi qi nian de shang hai ai li si	1
+伏瓦鲁魔法图书馆	fu wa lu mo fa tu shu guan	1
+少女密室	shao nv mi shi	1
+女仆与血之怀表	nv pu yu xue zhi huai biao	1
+月时计	yue shi ji	1
+特佩斯的年幼末裔	te pei si de nian you mo yi	1
+献给已逝公主的七重奏	xian gei yi shi gong zhu de qi chong zou	1
+魔法少女们的百年祭	mo fa shao nv men de bai nian ji	1
+比红色更虚无的永远	bi hong se geng xu wu de yong yuan	1
+红楼	hong lou	1
+无何有之乡	wu he you zhi xiang	1
+远野幻想物语	yuan ye huan xiang wu yu	1
+凋叶棕	diao ye zong	1
+布加勒斯特的人偶师	bu jia lei si te de ren ou shi	1
+人偶裁判	ren ou cai pan	1
+玩弄人形的少女	wan nong ren xing de shao nv	1
+天空的花都	tian kong de hua dou	1
+幽灵乐团	you ling yue tuan	1
+广有射怪鸟事	guang you she guai niao shi	1
+幽雅地绽放吧	you ya di zhan fang ba	1
+墨染的樱花	mo ran de ying hua	1
+妖妖跋扈	yao yao ba hu	1
+少女幻葬	shao nv huan zang	1
+春风之梦	chun feng zhi meng	1
+樱花樱花	ying hua ying hua	1
+蠢蠢的秋月	chun chun de qiu yue	1
+夜雀的歌声	ye que de ge sheng	1
+已经只能听见歌声了	yi jing zhi neng ting jian ge sheng le	1
+令人怀念的东方之血	ling ren huai nian de dong fang zhi xue	1
+永夜的报应	yong ye de bao ying	1
+狂气之瞳	kuang qi zhi tong	1
+千年幻想乡	qian nian huan xiang xiang	1
+竹取飞翔	zhu qu fei xiang	1
+蓬莱人	peng lai ren	1
+飘上月球	piao shang yue qiu	1
+不死之烟	bu si zhi yan	1
+月见草	yue jian cao	1
+幽玄的枫树	you xuan de feng shu	1
+东方妖怪小町	dong fang yao guai xiao ting	1
+夜幕降临	ye mu jiang lin	1
+御伽之国的鬼岛	yu ga zhi guo de gui dao	1
+夏明	xia ming	1
+魔所	mo suo	1
+月轮	yue lun	1
+遍参	bian can	1
+内心	nei xin	1
+间奏曲	jian zou qu	1
+东风	dong feng	1
+森闲	sen xian	1
+仰空	yang kong	1
+幽境	you jing	1
+稀客	xi ke	1
+红夜	hong ye	1
+战迅	zhan xun	1
+祸机	huo ji	1
+碎月	sui yue	1
+春色小径	chun se xiao jing	1
+宇佐大人的白旗	yu zuo da ren de bai qi	1
+剧毒身体	ju du shen ti	1
+今昔幻想乡	jin xi huan xiang xiang	1
+彼岸归航	bi an gui hang	1
+第六十年的东方审判	di liu shi nian de dong fang shen pan	1
+映花之塚	ying hua zhi zhong	1
+此岸之塚	ci an zhi zhong	1
+花如幻想一般	hua ru huan xiang yi ban	1
+魂之花	hun zhi hua	1
+天狗的笔记	tian gou de bi ji	1
+风的循环	feng de xun huan	1
+天狗正凝视着	tian gou zheng ning shi zhe	1
+东之国的不眠夜	dong zhi guo de bu mian ye	1
+回忆京都	hui yi jing du	1
+被封印的众神	bei feng yin de zhong shen	1
+眷爱众生之神	juan ai zhong sheng zhi shen	1
+会受稻田姬的斥责啦	hui shou dao tian ji de chi ze la	1
+厄神降临之路	e shen jiang lin zhi lu	1
+命运的阴暗面	ming yun de yin an mian	1
+众神眷恋的幻想乡	zhong shen juan lian de huan xiang xiang	1
+芥川龙之介的河童	jie chuan long zhi jie de he tong	1
+秋意渐浓之瀑	qiu yi jian nong zhi pu	1
+妖怪之山	yao guai zhi shan	1
+少女曾见的日本原风景	shao nv ceng jian de ri ben yuan feng jing	1
+信仰是为了虚幻之人	xin yang shi wei le xu huan zhi ren	1
+御柱的墓场	yu zhu de mu chang	1
+神圣庄严的古战场	shen sheng zhuang yan de gu zhan chang	1
+明日之盛	ming ri zhi sheng	1
+昨日之俗	zuo ri zhi su	1
+山脚的神社	shan jiao de shen she	1
+神明降下恩惠之雨	shen ming jiang xia en hui zhi yu	1
+日常坐卧	ri chang zuo wo	1
+地之色乃黄色	di zhi se nai huang se	1
+甲论乙驳	jia lun yi bo	1
+风光明媚	feng guang ming mei	1
+散发着香气的树叶花	san fa zhe xiang qi de shu ye hua	1
+飞舞的水飞沫	fei wu de shui fei mo	1
+以鱼驱蝇	yi yu qu ying	1
+放纵不羁	fang zong bu ji	1
+嘲讽的游戏	chao feng de you xi	1
+冷吟闲醉	leng yin xian zui	1
+云外苍天	yun wai cang tian	1
+黑海中的绯红	hei hai zhong de fei hong	1
+天衣无缝	tian yi wu feng	1
+有顶天变	you ding tian bian	1
+幼小的有顶天	you xiao de you ding tian	1
+暮色苍然	mu se cang ran	1
+地灵们的起床	di ling men de qi chuang	1
+昏暗的风穴	hun an de feng xue	1
+被封印的妖怪	bei feng yin de yao guai	1
+阻绝人迹之桥	zu jue ren ji zhi qiao	1
+绿眼的嫉妒	lv yan de ji du	1
+漫游旧地狱街道	man you jiu di yu jie dao	1
+大江山的花之酒宴	da jiang shan de hua zhi jiu yan	1
+少女觉	shao nv jue	1
+废狱摇篮曲	fei yu yao lan qu	1
+尸体旅行	shi ti lv xing	1
+业火地幔	ye huo di man	1
+灵知的太阳信仰	ling zhi de tai yang xin yang	1
+哈德曼的妖怪少女	ha de man de yao guai shao nv	1
+地灵们的归家	di ling men de gui jia	1
+能源黎明	neng yuan li ming	1
+青空之影	qing kong zhi ying	1
+春之港湾	chun zhi gang wan	1
+春色岸边	chun se an bian	1
+小小的贤将	xiao xiao de xian jiang	1
+封闭的云中通路	feng bi de yun zhong tong lu	1
+请注意万年备用伞	qing zhu yi wan nian bei yong san	1
+守旧老爹与前卫少女	shou jiu lao die yu qian wei shao nv	1
+幽灵客船的穿越时空之旅	you ling ke chuan de chuan yue shi kong zhi lv	1
+魔界地方都市秘境	mo jie di fang du shi mi jing	1
+虎纹的毘沙门天	hu wen de pi sha men tian	1
+法界之火	fa jie zhi huo	1
+感情的摩天楼	gan qing de mo tian lou	1
+夜空中的UFO恋曲	ye kong zhong de UFO lian qu	1
+平安时代的外星人	ping an shi dai de wai xing ren	1
+妖怪寺	yao guai si	1
+空中的归路	kong zhong de gui lu	1
+你见到了那个影子吗	ni jian dao le na ge ying zi ma	1
+传说的巨神	chuan shuo de ju shen	1
+我们的非想天则	wo men de fei xiang tian ze	1
+人偶存在的风景	ren ou cun zai de feng jing	1
+悠久的蒸汽机关	you jiu de zheng qi ji guan	1
+未知物	wei zhi wu	1
+空中飘浮的物体X	kong zhong piao fu de wu ti X	1
+巨大的影子与渺小的结局	ju da de ying zi yu miao xiao de jie ju	1
+你所在之城的怪事	ni suo zai zhi cheng de guai shi	1
+现代妖怪殖民地	xian dai yao guai zhi min di	1
+复仇女神的要塞	fu chou nv shen de yao sai	1
+无间之钟	wu jian zhi zhong	1
+春之冰精	chun zhi bing jing	1
+赌上性命去恶作剧	du shang xing ming qu e zuo ju	1
+时刻旺盛的好奇心	shi ke wang sheng de hao qi xin	1
+午夜的妖精舞会	wu ye de yao jing wu hui	1
+欲望深重的灵魂	yu wang shen zhong de ling hun	1
+死灵的夜樱	si ling de ye ying	1
+欢迎来到妖怪寺	huan ying lai dao yao guai si	1
+寺门前的妖怪小姑娘	si men qian de yao guai xiao gu niang	1
+在美妙的墓地里住下吧	zai mei miao de mu di li zhu xia ba	1
+古老的元神	gu lao de yuan shen	1
+梦殿大祀庙	meng dian da si miao	1
+大神神话传	da shen shen hua chuan	1
+小小欲望的星空	xiao xiao yu wang de xing kong	1
+圣德传说	sheng de chuan shuo	1
+后院的妖怪参拜道	hou yuan de yao guai can bai dao	1
+佐渡的二岩	zuo du de er yan	1
+神社的新风	shen she de xin feng	1
+幻想乡的二岩	huan xiang xiang de er yan	1
+亡失的情感	wang shi de qing gan	1
+尘世不变的悲观主义	chen shi bu bian de bei guan zhu yi	1
+心绮楼囃子	xin qi lou ca zi	1
+有人气的场所	you ren qi de chang suo	1
+无人气的场所	wu ren qi de chang suo	1
+丑时三刻的村落	chou shi san ke de cun luo	1
+本日的头版头条	ben ri de tou ban tou tiao	1
+晓云	xiao yun	1
+官板黄昏新闻	guan ban huang hun xin wen	1
+不可思议的驱魔棒	bu ke si yi de qu mo bang	1
+秘境的人鱼	mi jing de ren yu	1
+往来于运河的人与妖	wang lai yu yun he de ren yu yao	1
+柳树下的杜拉罕	liu shu xia de du la han	1
+满月的竹林	man yue de zhu lin	1
+孤独的狼人	gu du de lang ren	1
+幻想净琉璃	huan xiang jing liu li	1
+沉向空中的辉针城	chen xiang kong zhong de hui zhen cheng	1
+针小棒大的天守阁	zhen xiao bang da de tian shou ge	1
+辉光之针的小人族	hui guang zhi zhen de xiao ren zu	1
+魔力的雷云	mo li de lei yun	1
+原初的节拍	yuan chu de jie pai	1
+小槌的魔力	xiao chui de mo li	1
+非常非常神奇的道具们	fei chang fei chang shen qi de dao ju men	1
+燃起犯规的狼烟	ran qi fan gui de lang yan	1
+以犯规对不可能的弹幕	yi fan gui dui bu ke neng de dan mu	1
+浪漫逃飞行	lang man tao fei xing	1
+永远的三日天下	yong yuan de san ri tian xia	1
+震撼心灵的都市传说	zhen han xin ling de du shi chuan shuo	1
+幻想乡不可思议发现	huan xiang xiang bu ke si yi fa xian	1
+有珠子的日常	you zhu zi de ri chang	1
+显现的传承形态	xian xian de chuan cheng xing tai	1
+时代风潮的造访	shi dai feng chao de zao fang	1
+价值不明	jia zhi bu ming	1
+相信可能性	xiang xin ke neng xing	1
+知晓真相之人	zhi xiao zhen xiang zhi ren	1
+外界民俗	wai jie min su	1
+各自的结局	ge zi de jie ju	1
+被揭晓的深秘	bei jie xiao de shen mi	1
+灵异任你选	ling yi ren ni xuan	1
+七玉搜集大摊牌	qi yu sou ji da tan pai	1
+公正的争夺	gong zheng de zheng duo	1
+对跖点之钟	dui zhi dian zhi zhong	1
+竹林大火	zhu lin da huo	1
+华狭间的战场	hua xia jian de zhan chang	1
+现世的秘术师	xian shi de mi shu shi	1
+容貌错乱	rong mao cuo luan	1
+宇宙巫女现身	yu zhou wu nv xian shen	1
+忘不了	wang bu liao	1
+那曾依藉的绿意	na ceng yi ji de lv yi	1
+兔已着陆	tu yi zhuo lu	1
+湖上倒映着洁净的月光	hu shang dao ying zhe jie jing de yue guang	1
+九月的南瓜	jiu yue de nan gua	1
+飞翔于宇宙的不可思议巫女	fei xiang yu yu zhou de bu ke si yi wu nv	1
+永远的春梦	yong yuan de chun meng	1
+冻结的永远之都	dong jie de yong yuan zhi dou	1
+逆转的命运之轮	ni zhuan de ming yun zhi lun	1
+遥遥三十八万公里的航程	yao yao san shi ba wan gong li de hang cheng	1
+星条旗的小丑	xing tiao qi de xiao chou	1
+故乡之星倒映之海	gu xiang zhi xing dao ying zhi hai	1
+前所未见的噩梦世界	qian suo wei jian de e meng shi jie	1
+从神社所见之月	cong shen she suo jian zhi yue	1
+宇宙巫女归还	yu zhou wu nv gui huan	1
+樱花舞落的天空	ying hua wu luo de tian kong	1
+希望之星直升青霄	xi wang zhi xing zhi sheng qing xiao	1
+仲夏的妖精梦	zhong xia de yao jing meng	1
+妖怪山间无色风	yao guai shan jian wu se feng	1
+深山的遭遇	shen shan de zao yu	1
+徜徉于樱色之海	chang yang yu ying se zhi hai	1
+成对的神兽	cheng dui de shen shou	1
+幻想的白色旅人	huan xiang de bai se lv ren	1
+魔法的笠地藏	mo fa de li di zang	1
+禁忌之门对侧	jin ji zhi men dui ce	1
+是此世还是彼世	shi ci shi hai shi bi shi	1
+被秘匿的四个季节	bei mi ni de si ge ji jie	1
+门再也进不去了	men zai ye jin bu qu le	1
+秘神摩多罗	mi shen mo duo luo	1
+不自然的自然	bu zi ran de zi ran	1
+白色旅人	bai se lv ren	1
+圣辇船飞向天空	sheng nian chuan fei xiang tian kong	1
+法力之下的平等	fa li zhi xia de ping deng	1
+恒常不变的参庙祀	heng chang bu bian de can miao si	1
+光辉的天球仪	guang hui de tian qiu yi	1
+泽之河童的技术力	ze zhi he tong de ji shu li	1
+地底绽放的蔷薇	di di zhan fang de qiang wei	1
+在深绿的狸森里	zai shen lv de li sen li	1
+不灭的赤魂	bu mie de chi hun	1
+落日映照下的逆城	luo ri ying zhao xia de ni cheng	1
+克服万千之试炼	ke fu wan qian zhi shi lian	1
+永远延续的回廊	yong yuan yan xu de hui lang	1
+到达有顶天	dao da you ding tian	1
+凭坐挟于梦境与现实之间	ping zuo xie yu meng jing yu xian shi zhi jian	1
+今宵是飘逸的利己主义者	jin xiao shi piao yi de li ji zhu yi zhe	1
+凭投依合	ping tou yi he	1
+连带责人	lian dai ze ren	1
+合缘奇缘	he yuan qi yuan	1
+异心同体	yi xin tong ti	1
+豪言壮语	hao yan zhuang yu	1
+智略纵横	zhi lve zong heng	1
+意气洋洋	yi qi yang yang	1
+开演在即	kai yan zai ji	1
+行云流水	xing yun liu shui	1
+异变的种子	yi bian de zhong zi	1
+疑惑的萌芽	yi huo de meng ya	1
+含苞待放的凭依华	han bao dai fang de ping yi hua	1
+通往真相的枝叶	tong wang zhen xiang de zhi ye	1
+争奇斗艳的凭依华	zheng qi dou yan de ping yi hua	1
+飞舞飘散的凭依华吹雪	fei wu piao san de ping yi hua chui xue	1
+噩梦日记	e meng ri ji	1
+沉默的兽灵	chen mo de shou ling	1
+只有地藏知晓的哀叹	zhi you di zang zhi xiao de ai tan	1
+石之婴儿与水中牛	shi zhi ying er yu shui zhong niu	1
+不朽的曼珠沙华	bu xiu de man zhu sha hua	1
+幸运与不幸	xing yun yu bu xing	1
+陶瓷的杖刀人	tao ci de zhang dao ren	1
+寄世界于偶像	ji shi jie yu ou xiang	1
+闪耀的弱肉强食法则	shan yao de ruo rou qiang shi fa ze	1
+圣德太子的天马	sheng de tai zi de tian ma	1
+畜生们的小憩	chu sheng men de xiao qi	1
+从地下的归还	cong di xia de gui huan	1
+架起虹桥的幻想乡	jia qi hong qiao de huan xiang xiang	1
+妖异们的骤雨	yao yi men de zhou yu	1
+大吉猫咪	da ji mao mi	1
+深绿掩映的断崖	shen lv yan ying de duan ya	1
+驹草盛开的万年积雪	ju cao sheng kai de wan nian ji xue	1
+日渐荒废的工业遗址	ri jian huang fei de gong ye yi zhi	1
+神代矿石	shen dai kuang shi	1
+渴盼已久的逢魔之刻	ke pan yi jiu de feng mo zhi ke	1
+天魔之山漫天星	tian mo zhi shan man tian xing	1
+熙攘市场今何在	xi rang shi chang jin he zai	1
+幻想地下大轨道网	huan xiang di xia da gui dao wang	1
+灭杀龙王的公主	mie sha long wang de gong zhu	1
+风暴过后的星期日	feng bao guo hou de xing qi ri	1
+虹色的世界	hong se de shi jie	1
+被水淹没的沉愁地狱	bei shui yan mo de chen chou di yu	1
+天理人欲	tian li ren yu	1
+大地之底	da di zhi di	1
+刚欲之海	gang yu zhi hai	1
+贪欲之兽的记忆	tan yu zhi shou de ji yi	1
+全有机体的记忆	quan you ji ti de ji yi	1
+收藏家的忧郁午后	shou cang jia de you yu wu hou	1
+令人心跳的司空见惯幻想乡	ling ren xin tiao de si kong jian guan huan xiang xiang	1
+妖怪上钩	yao guai shang gou	1
+黑市无处不在	hei shi wu chu bu zai	1
+拿起弹幕吧	na qi dan mu ba	1
+第一百次黑市	di yi bai ci hei shi	1
+兽之智慧	shou zhi zhi hui	1
+世间万物皆可爱	shi jian wan wu jie ke ai	1
+魔兽紧急升空	mo shou jin ji sheng kong	1
+悠久山上鬼	you jiu shan shang gui	1
+勇敢又慵懒的妖兽	yong gan you yong lan de yao shou	1
+吸血怪兽卓柏卡布拉	xi xue guai shou zhuo bai ka bu la	1
+不回首的黄泉路	bu hui shou de huang quan lu	1
+越轨者们的无碍光	yue gui zhe men de wu ai guang	1
+兽王们的小憩	shou wang men de xiao qi	1
+野兽有智慧吗	ye shou you zhi hui ma	1
+锦上巫女	jin shang wu nv	1
+所爱所怜的凡尘居所	suo ai suo lian de fan chen ju suo	1
+即便为世间所遗忘	ji bian wei shi jian suo yi wang	1
+森林里面有鬼怪哦	sen lin li mian you gui guai o	1
+祭司王约翰的黄金境	ji si wang yue han de huang jin jing	1
+事已至此就赌上性命来猜谜吧	shi yi zhi ci jiu du shang xing ming lai cai mi ba	1
+猎鹿旧忆回潮	lie lu jiu yi hui chao	1
+沉入记忆深海的少女	chen ru ji yi shen hai de shao nv	1
+金字塔的神域	jin zi ta de shen yu	1
+早已习惯最终孑然一身	zao yi xi guan zui zhong jie ran yi shen	1
+双壳贝上的幻觉	shuang ke bei shang de huan jue	1
+不变的日常	bu bian de ri chang	1
+所爱所怜的日常	suo ai suo lian de ri chang	1
+迈向生死更迭的世界	mai xiang sheng si geng die de shi jie	1
+宵暗的魔术师	xiao an de mo shu shi	1
+梦幻回廊	meng huan hui lang	1
+蓬莱传说	peng lai chuan shuo	1
+人偶森林	ren ou sen lin	1
+空中飞翔的巫女不可思议的每天	kong zhong fei xiang de wu nv bu ke si yi de mei tian	1
+走在夜晚的莲台野	zou zai ye wan de lian tai ye	1
+少女秘封俱乐部	shao nv mi feng ju le bu	1
+古老的冥界寺	gu lao de ming jie si	1
+魔术师梅莉	mo shu shi mei li	1
+月之妖鸟	yue zhi yao niao	1
+化猫之幻	hua mao zhi huan	1
+过去的花	guo qu de hua	1
+幻想的永远祭	huan xiang de yong yuan ji	1
+童祭	tong ji	1
+华胥之梦	hua xu zhi meng	1
+科学世纪的少年少女	ke xue shi ji de shao nian shao nv	1
+梦境与现实的境界	meng jing yu xian shi de jing jie	1
+广重三十六号	guang zhong san shi liu hao	1
+五十三分钟的蓝色大海	wu shi san fen zhong de lan se da hai	1
+青木原的传说	qing mu yuan de chuan shuo	1
+最澄澈的空与海	zui cheng che de kong yu hai	1
+欢迎来到月面旅行团	huan ying lai dao yue mian lv xing tuan	1
+天空的格林尼治	tian kong de ge lin ni zhi	1
+轮椅上的未来宇宙	lun yi shang de wei lai yu zhou	1
+卫星露天咖啡座	wei xing lu tian ka fei zuo	1
+另一侧的月	ling yi ce de yue	1
+未知之花	wei zhi zhi hua	1
+魅知之旅	mei zhi zhi lv	1
+卫星鸟船	wei xing niao chuan	1
+特洛伊群的密林	te luo yi qun de mi lin	1
+天鸟船神社	tian niao chuan shen she	1
+天鸟船神社的结界	tian niao chuan shen she de jie jie	1
+漂浮于宇宙之中的幻想乡	piao fu yu yu zhou zhi zhong de huan xiang xiang	1
+绿意盎然的疗养院	lv yi ang ran de liao yang yuan	1
+被牛引到善光寺	bei niu yin dao shan guang si	1
+阿加尔塔之风	a jia er ta zhi feng	1
+收集日本各地的不可思议	shou ji ri ben ge di de bu ke si yi	1
+二人不值一提的博物志	er ren bu zhi yi ti de bo wu zhi	1
+令人不眠之瞳	ling ren bu mian zhi tong	1
+比普朗克更短的须臾	bi pu lang ke geng duan de xu yu	1
+薛定谔的怪猫	xue ding e de guai mao	1
+禁忌的膜壁	jin ji de mo bi	1
+燕石博物志所带来的黑暗	yan shi bo wu zhi suo dai lai de hei an	1
+旧世界的冒险酒馆	jiu shi jie de mao xian jiu guan	1
+宿醉者的同床异梦	su zui zhe de tong chuang yi meng	1
+七石之狼	qi shi zhi lang	1
+登天吞云	deng tian tun yun	1
+日出七夕坂	ri chu qi xi ban	1
+不等式的廷克	bu deng shi de ting ke	1
+贝尔	bei er	1
+不等式的廷克·贝尔	bu deng shi de ting ke	1
+梦幻能	meng huan neng	1
+独自一人的常陆行路	du zi yi ren de chang lu xing lu	1
+毕竟不单夜晚有鬼怪	bi jing bu dan ye wan you gui guai	1
+黑猪	hei zhu	1
+白猪	bai zhu	1
+红猪	hong zhu	1
+绿猪	lv zhu	1
+紫猪	zi zhu	1
+粉猪	fen zhu	1
+蓝猪	lan zhu	1
+梦想封印	meng xiang feng yin	1
+封魔阵	feng mo zhen	1
+极限火花	ji xian huo hua	1
+完美冻结	wan mei dong jie	1
+钻石风暴	zuan shi feng bao	1
+芳华绚烂	fang hua xuan lan	1
+卷柏	juan bai	1
+彩虹风铃	cai hong feng ling	1
+华想梦葛	hua xiang meng ge	1
+彩光乱舞	cai guang luan wu	1
+彩光	cai guang	1
+极彩台风	ji cai tai feng	1
+火神之光	huo shen zhi guang	1
+三石塔	san shi ta	1
+慵懒三石塔	yong lan san shi ta	1
+三石塔的震动	san shi ta de zhen dong	1
+熔岩环石阵	rong yan huan shi zhen	1
+环状熔岩带	huan zhuang rong yan dai	1
+水银之毒	shui yin zhi du	1
+森林大火	sen lin da huo	1
+水精公主	shui jing gong zhu	1
+湖葬	hu zang	1
+风灵的角笛	feng ling de jiao di	1
+风灵角笛	feng ling jiao di	1
+角笛	jiao di	1
+绿色风暴	lv se feng bao	1
+水精灵	shui jing ling	1
+火神的光辉	huo shen de guang hui	1
+翡翠巨石	fei cui ju shi	1
+金属疲劳	jin shu pi lao	1
+银龙	yin long	1
+幻惑误导	huan huo wu dao	1
+幻惑诱导	huan huo you dao	1
+幻惑	huan huo	1
+迷幻的杰克	mi huan de jie ke	1
+迷幻杰克	mi huan jie ke	1
+世界	shi jie	1
+杀人玩偶	sha ren wan ou	1
+杀人木偶	sha ren mu ou	1
+玩偶	wan ou	1
+木偶	mu ou	1
+永恒的温柔	yong heng de wen rou	1
+温柔	wen rou	1
+神罚	shen fa	1
+千根针的针山	qian gen zhen de zhen shan	1
+吸血鬼幻想	xi xue gui huan xiang	1
+吸幻	xi huan	1
+绯红之主	fei hong zhi zhu	1
+红专	hong zhuan	1
+红色的幻想乡	hong se de huan xiang xiang	1
+红幻	hong huan	1
+沉静的月神	chen jing de yue shen	1
+皇家烈焰	huang jia lie yan	1
+莱瓦汀	lai wa ting	1
+四重存在	si zhong cun zai	1
+笼中鸟	long zhong niao	1
+星虹破碎	xing hong po sui	1
+折反射	zhe fan she	1
+恋之迷宫	lian zhi mi gong	1
+之后就一个人都没有了吗	zhi hou jiu yi ge ren dou mei you le ma	1
+二重结界	er chong jie jie	1
+冰霜方阵	bing shuang fang zhen	1
+冰袭方阵	bing xi fang zhen	1
+延长的冬日	yan chang de dong ri	1
+桌灵转	zhuo ling zhuan	1
+凤凰卵	feng huang luan	1
+凤凰展翅	feng huang zhan chi	1
+晴明大纹	qing ming da wen	1
+护法天童乱舞	hu fa tian tong luan wu	1
+奇门遁甲	qi men dun jia	1
+奇门	qi men	1
+少女文乐	shao nv wen le	1
+蓬莱人偶	peng lai ren ou	1
+大合葬	da he zang	1
+饿鬼剑	e gui jian	1
+饿王剑	e wang jian	1
+饿鬼十王	e gui shi wang	1
+业风神闪斩	ye feng shen shan zhan	1
+业风	ye feng	1
+修罗剑	xiu luo jian	1
+人神剑	ren shen jian	1
+天神剑	tian shen jian	1
+三魂七魄	san hun qi po	1
+三七	san qi	1
+一念无量劫	yi nian wu liang jie	1
+亡舞	wang wu	1
+生者必灭之理	sheng zhe bi mie zhi li	1
+生者必灭	sheng zhe bi mie	1
+华灵	hua ling	1
+蝶妄想	die wang xiang	1
+幽曲	you qu	1
+埋骨于弘川	mai gu yu hong chuan	1
+埋骨	mai gu	1
+完全墨染的樱花	wan quan mo ran de ying hua	1
+墨染樱	mo ran ying	1
+反魂蝶	fan hun die	1
+青鬼赤鬼	qing gui chi gui	1
+十二神将	shi er shen jiang	1
+四面楚歌	si mian chu ge	1
+天狐公主	tian hu gong zhu	1
+狐狗狸	hu gou li	1
+二重黑死蝶	er chong hei si die	1
+黑死蝶	hei si die	1
+式神	shi shen	1
+弹幕结界	dan mu jie jie	1
+梦想妙珠	meng xiang miao zhu	1
+八方鬼缚阵	ba fang gui fu zhen	1
+究极火花	jiu ji huo hua	1
+小行星带	xiao xing xing dai	1
+未来永劫斩	wei lai yong jie zhan	1
+回归虚无	hui gui xu wu	1
+冈格尼尔	gang ge ni er	1
+华胥的永眠	hua xu de yong mian	1
+户隐山之投	hu yin shan zhi tou	1
+户隐山	hu yin shan	1
+百万鬼夜行	bai wan gui ye xing	1
+萤光现象	ying guang xian xiang	1
+夜虫龙卷	ye chong long juan	1
+永夜蛰居	yong ye zhe ju	1
+木菟的咆哮	mu tu de pao xiao	1
+木菟咆哮	mu tu pao xiao	1
+木菟	mu tu	1
+毒蛾	du e	1
+祸延疾冲	huo yan ji chong	1
+三神器	san shen qi	1
+幻想乡传说	huan xiang xiang chuan shuo	1
+高天原	gao tian yuan	1
+八方龙杀阵	ba fang long sha zhen	1
+击月	ji yue	1
+幻视调律	huan shi diao lv	1
+月兔远程催眠术	yue tu yuan cheng cui mian shu	1
+壶中的天地	hu zhong de tian di	1
+天人的族谱	tian ren de zu pu	1
+苏生	su sheng	1
+思兼	si jian	1
+天文密葬法	tian wen mi zang fa	1
+蓬莱之药	peng lai zhi yao	1
+蓬莱药	peng lai yao	1
+壶中的大银河	hu zhong de da yin he	1
+耀眼的龙玉	yao yan de long yu	1
+龙玉	long yu	1
+佛体的金刚石	fu ti de jin gang shi	1
+佛钵	fu bo	1
+火蜥蜴	huo xi yi	1
+火鼠的皮衣	huo shu de pi yi	1
+燕的子安贝	yan de zi an bei	1
+无限的生命之泉	wu xian de sheng ming zhi quan	1
+爆菊泉	bao ju quan	1
+蓬莱的玉枝	peng lai de yu zhi	1
+玉枝	yu zhi	1
+永夜返	yong ye fan	1
+虚人	xu ren	1
+正直者之死	zheng zhi zhe zhi si	1
+正直者	zheng zhi zhe	1
+徐福时空	xu fu shi kong	1
+月岩笠的诅咒	yue yan li de zu zhou	1
+凤翼天翔	feng yi tian xiang	1
+不合时令的蝶雨	bu he shi ling de die yu	1
+蝶雨	die yu	1
+日出国之天子	ri chu guo zhi tian zi	1
+天网蛛网捕蝶之法	tian wang zhu wang bu die zhi fa	1
+蓬莱的树海	peng lai de shu hai	1
+不死鸟重生	bu si niao chong sheng	1
+无何有的净化	wu he you de jing hua	1
+梦想天生	meng xiang tian sheng	1
+收缩的世界	shou suo de shi jie	1
+待宵反射卫星斩	dai xiao fan she wei xing zhan	1
+绯红的命运	fei hong de ming yun	1
+绯红命运	fei hong ming yun	1
+西行寺无余涅槃	xi xing si wu yu nie pan	1
+深弹幕结界	shen dan mu jie jie	1
+花鸟风月	hua niao feng yue	1
+谷物神	gu wu shen	1
+厄神大人的生理节律	e shen da ren de sheng li jie lv	1
+大钟婆之火	da zhong po zhi huo	1
+大钟婆	da zhong po	1
+流放人偶	liu fang ren ou	1
+流刑人偶	liu xing ren ou	1
+流刑	liu xing	1
+光学迷彩	guang xue mi cai	1
+光学	guang xue	1
+漂溺	piao ni	1
+大瀑布	da pu bu	1
+延展手臂	yan zhan shou bi	1
+回转顶板	hui zhuan ding ban	1
+猿田彦神	yuan tian yan shen	1
+岐符	qi fu	1
+风神木叶隐身术	feng shen mu ye yin shen shu	1
+天狗颪	tian gou gua	1
+二百十日	er bai shi ri	1
+二百十	er bai shi	1
+幻想风靡	huan xiang feng mi	1
+无双风神	wu shuang feng shen	1
+天上天下的照国	tian shang tian xia de zhao guo	1
+照国	zhao guo	1
+一脉单传之弹幕	yi mai dan chuan zhi dan mu	1
+一脉单传	yi mai dan chuan	1
+单传	dan chuan	1
+客星	ke xing	1
+开海	kai hai	1
+建御名方神	jian yu ming fang shen	1
+八坂之神风	ba ban zhi shen feng	1
+御柱	yu zhu	1
+神粥	shen zhou	1
+神谷	shen gu	1
+御射山御狩神事	yu she shan yu shou shen shi	1
+御射山	yu she shan	1
+葛井清水	ge jing qing shui	1
+大和环面	da he huan mian	1
+天水	tian shui	1
+天龙	tian long	1
+信仰之山	xin yang zhi shan	1
+风神之神德	feng shen zhi shen de	1
+神德	shen de	1
+二拜二拍一拜	er bai er pai yi bai	1
+手长足长	shou chang zu zhang	1
+洩矢的铁轮	xie shi de tie lun	1
+厌川的翡翠	yan chuan de fei cui	1
+七石七木	qi shi qi mu	1
+小小青蛙不输风雨	xiao xiao qing wa bu shu feng yu	1
+赤蛙	chi wa	1
+诹访大战	zou fang da zhan	1
+祟符	sui fu	1
+要石	yao shi	1
+全人类的绯想天	quan ren lei de fei xiang tian	1
+钓瓶落	diao ping luo	1
+钓落瓶	diao luo ping	1
+开花爷爷	kai hua ye ye	1
+剪舌麻雀	jian she ma que	1
+舌切雀	she qie que	1
+丑时参拜	chou shi can bai	1
+怪力乱神	guai li luan shen	1
+罪人不释之枷	zui ren bu shi zhi jia	1
+罪枷	zui jia	1
+大江山岚	da jiang shan lan	1
+大江山颪	da jiang shan gua	1
+三步必杀	san bu bi sha	1
+恐怖催眠术	kong bu cui mian shu	1
+飞行虫之巢	fei xing chong zhi chao	1
+飞行虫	fei xing chong	1
+波粒	bo li	1
+蒙蒙迷雾	meng meng mi wu	1
+鸟居旋风	niao ju xuan feng	1
+怨灵猫乱步	yuan ling mao luan bu	1
+猫步	mao bu	1
+怨灵凭依妖精	yuan ling ping yi yao jing	1
+食人怨灵	shi ren yuan ling	1
+旧地狱的针山	jiu di yu de zhen shan	1
+针山	zhen shan	1
+死灰复燃	si hui fu ran	1
+小恶灵复活	xiao e ling fu huo	1
+火焰的车轮	huo yan de che lun	1
+核热	he re	1
+爆符	bao fu	1
+千兆耀斑	qian zhao yao ban	1
+十凶星	shi xiong xing	1
+地狱极乐熔毁	di yu ji le rong hui	1
+托卡马克	tuo ka ma ke	1
+地底太阳	di di tai yang	1
+神秘果	shen mi guo	1
+弹幕偏执症	dan mu pian zhi zheng	1
+本我	ben wo	1
+超我	chao wo	1
+妖怪测谎机	yao guai ce huang ji	1
+弹幕的墨迹测验	dan mu de mo ji ce yan	1
+埋火	mai huo	1
+被厌恶者的哲学	bei yan wu zhe de zhe xue	1
+地底蔷薇	di di qiang wei	1
+神代大蛇	shen dai da she	1
+棒符	bang fu	1
+搜符	sou fu	1
+灵摆	ling bai	1
+大轮	da lun	1
+超防水干爽伞妖	chao fang shui gan shuang san yao	1
+超防水	chao fang shui	1
+化铁	hua tie	1
+伞车	san che	1
+连打	lian da	1
+帝王海妖来袭	di wang hai yao lai xi	1
+天上天下连续勾拳	tian shang tian xia lian xu gou quan	1
+空前绝后巨眼焚身	kong qian jue hou ju yan fen shen	1
+倾覆	qing fu	1
+溺符	ni fu	1
+港符	gang fu	1
+悄然袭来的长勺	qiao ran xi lai de zhang shao	1
+长勺	zhang shao	1
+无上财宝	wu shang cai bao	1
+正义之威光	zheng yi zhi wei guang	1
+威光	wei guang	1
+无瑕佛法之独钴杵	wu xia fo fa zhi du gu chu	1
+转转棒	zhuan zhuan bang	1
+完全净化	wan quan jing hua	1
+紫云	zi yun	1
+极乐的紫色云路	ji le de zi se yun lu	1
+魔法蝶	mo fa die	1
+魔法银河系	mo fa yin he xi	1
+香蕉船	xiang jiao chuan	1
+魔神复诵	mo shen fu song	1
+飞钵	fei bo	1
+正体不明	zheng ti bu ming	1
+平安京的恶梦	ping an jing de e meng	1
+恨弓	hen gong	1
+源三位赖政之弓	yuan san wei lai zheng zhi gong	1
+狂弓	kuang gong	1
+金阁寺	jin ge si	1
+寒冰熔解器	han bing rong jie qi	1
+金红石折射	jin hong shi zhe she	1
+阳光冲击波	yang guang chong ji bo	1
+星星点点	xing xing dian dian	1
+苍穹中的精灵	cang qiong zhong de jing ling	1
+猎户座腰带	lie hu zuo yao dai	1
+花开无声	hua kai wu sheng	1
+满月之夜	man yue zhi ye	1
+寂静之月	ji jing zhi yue	1
+开放宇宙	kai fang yu zhou	1
+大坍缩	da tan suo	1
+超级英仙座	chao ji ying xian zuo	1
+妖精尽灭光	yao jing jin mie guang	1
+常夜樱	chang ye ying	1
+西行樱吹雪	xi xing ying chui xue	1
+樱吹雪	ying chui xue	1
+樱吹雪地狱	ying chui xue di yu	1
+毒爪	du zhao	1
+孤魂野鬼	gu hun ye gui	1
+走火入魔	zou huo ru mo	1
+通灵芳香	tong ling fang xiang	1
+道胎动	dao tai dong	1
+元兴寺的龙卷	yuan xing si de long juan	1
+元兴寺	yuan xing si	1
+雨之磐舟	yu zhi pan zhou	1
+天舟	tian zhou	1
+投皿	tou min	1
+火烧樱井寺	huo shao ying jing si	1
+樱井寺	ying jing si	1
+大物忌正餐	da wu ji zheng can	1
+圣童女	sheng tong nv	1
+十二阶之冠位	shi er jie zhi guan wei	1
+十二阶	shi er jie	1
+日出之处的天子	ri chu zhi chu de tian zi	1
+豪族乱舞	hao zu luan wu	1
+斑鸠寺的天球仪	ban jiu si de tian qiu yi	1
+斑鸠寺	ban jiu si	1
+天球仪	tian qiu yi	1
+救世之光	jiu shi zhi guang	1
+十七条	shi qi tiao	1
+无忤为宗	wu wu wei zong	1
+星辰降落	xing chen jiang luo	1
+星降	xing jiang	1
+新生的神灵	xin sheng de shen ling	1
+鸟兽戏画	niao shou xi hua	1
+野生离岛	ye sheng li dao	1
+逆鳞的惊涛	ni lin de jing tao	1
+犬齿	quan chi	1
+星形齿	xing xing chi	1
+满月的远吠	man yue de yuan fei	1
+远吠	yuan fei	1
+祇园精舍的钟声	qi yuan jing she de zhong sheng	1
+祇园	qi yuan	1
+无耳芳一	wu er fang yi	1
+平家的大怨灵	ping jia de da yuan ling	1
+诸行无常的琴声	zhu xing wu chang de qin sheng	1
+诸行无常	zhu xing wu chang	1
+回音之庭	hui yin zhi ting	1
+下克上安魂曲	xia ke shang an hun qu	1
+下克上送筝曲	xia ke shang song zheng qu	1
+下克上	xia ke shang	1
+逆针击	ni zhen ji	1
+天地有用	tian di you yong	1
+天壤梦弓	tian rang meng gong	1
+天下翻覆	tian xia fan fu	1
+镜中的邪恶	jing zhong de xie e	1
+诏敕	zhao chi	1
+变革空勇士	bian ge kong yong shi	1
+辉针剑	hui zhen jian	1
+进击的小人	jin ji de xiao ren	1
+七个一寸法师	qi ge yi cun fa shi	1
+一寸法师	yi cun fa shi	1
+雷电拨浪鼓	lei dian bo lang gu	1
+雷神之怒	lei shen zhi nu	1
+原始的节拍	yuan shi de jie pai	1
+十七条宪法炸弹	shi qi tiao xian fa zha dan	1
+梵天之瞳	fan tian zhi tong	1
+运钝根的捕物帐	yun dun gen de bu wu zhang	1
+运钝根	yun dun gen	1
+浆果浆果团子	jiang guo jiang guo tuan zi	1
+团子影响力	tuan zi ying xiang li	1
+月见酒	yue jian jiu	1
+鹰击	ying ji	1
+凶弹	xiong dan	1
+刈安色的迷梦	yi an se de mi meng	1
+刈安色	yi an se	1
+梦我梦中	meng wo meng zhong	1
+狂梦	kuang meng	1
+乌合	wu he	1
+弹冠	dan guan	1
+孤翼的白鹭	gu yi de bai lu	1
+片翼的白鹭	pian yi de bai lu	1
+地狱之蚀	di yu zhi shi	1
+闪光与条纹	shan guang yu tiao wen	1
+星与条纹	xing yu tiao wen	1
+地狱火	di yu huo	1
+狱炎	yu yan	1
+条纹状的深渊	tiao wen zhuang de shen yuan	1
+阿波罗捏造说	a bo luo nie zao shuo	1
+纯光	chun guang	1
+百合	bai he	1
+神灵界	shen ling jie	1
+冻星	dong xing	1
+狂气	kuang qi	1
+纯化	chun hua	1
+纯符	chun fu	1
+纯粹的弹幕地狱	chun cui de dan mu di yu	1
+逢魔之刻	feng mo zhi ke	1
+邪秽在身	xie hui zai shen	1
+用于杀人的纯粹弹幕	yong yu sha ren de chun cui dan mu	1
+即席菩提	ji xi pu ti	1
+菩提	pu ti	1
+巨大弹	ju da dan	1
+业火	ye huo	1
+竹符	zhu fu	1
+茗荷	ming he	1
+七夕星节	qi xi xing jie	1
+七夕星祭	qi xi xing ji	1
+舞符	wu fu	1
+狂舞	kuang wu	1
+后光	hou guang	1
+里夏	li xia	1
+里秋	li qiu	1
+里冬	li dong	1
+里春	li chun	1
+春终	chun zhong	1
+夏终	xia zhong	1
+秋终	qiu zhong	1
+冬终	dong zhong	1
+风吹樱花	feng chui ying hua	1
+吹拂樱花	chui fu ying hua	1
+完美夏冰	wan mei xia bing	1
+疯狂秋风	feng kuang qiu feng	1
+极端寒冬	ji duan han dong	1
+饿鬼围城	e gui wei cheng	1
+分水试练	fen shui shi lian	1
+瞭望试练	liao wang shi lian	1
+鬼渡	gui du	1
+龟甲地狱	gui jia di yu	1
+鬼畜生	gui chu sheng	1
+龙纹弹	long wen dan	1
+埴轮	zhi lun	1
+线形	xian xing	1
+鬼形造形术	gui xing zao xing shu	1
+几何	ji he	1
+鬼形的乌合之众	gui xing de wu he zhi zhong	1
+最深的森域	zui shen de sen yu	1
+云间草	yun jian cao	1
+惊愕的云间草	jing e de yun jian cao	1
+薄雪草	bao xue cao	1
+阴阳神玉	yin yang shen yu	1
+女王珠	nv wang zhu	1
+阴阳窒息	yin yang zhi xi	1
+星火燎原	xing huo liao yuan	1
+虹彩陆离	hong cai lu li	1
+天马行空	tian ma xing kong	1
+光风霁月	guang feng ji yue	1
+无主供物	wu zhu gong wu	1
+收集狂	shou ji kuang	1
+弹幕市场	dan mu shi chang	1
+弹幕自由市场	dan mu zi you shi chang	1
+自由市场	zi you shi chang	1
+虹人环	hong ren huan	1
+弹幕领土	dan mu ling tu	1
+无道的弹幕领土	wu dao de dan mu ling tu	1
+弹幕的庇护所	dan mu de bi hu suo	1
+矿山爆破	kuang shan bao po	1
+噬蛇者	shi she zhe	1
+噬龙者	shi long zhe	1
+纯灵弹	chun ling dan	1
+无心纯灵弹	wu xin chun ling dan	1
+亡羊的王国	wang yang de wang guo	1
+宇宙尘	yu zhou chen	1
+唐柜翻转	tang gui fan zhuan	1
+魑符	chi fu	1
+谜符	mi fu	1
+弹幕金字塔	dan mu jin zi ta	1
+碎片大数据	sui pian da shu ju	1
+射鹿	she lu	1
+潮盈珠	chao ying zhu	1
+潮干珠	chao gan zhu	1
+月龙	yue long	1
+死符	si fu	1
+永远之冬	yong yuan zhi dong	1
+恒久之冬	heng jiu zhi dong	1
+混沌之冬	hun dun zhi dong	1
+弹幕的化石	dan mu de hua shi	1
+幻想的遗骸	huan xiang de yi hai	1
+锦上的虚像	jin shang de xu xiang	1
+锦之上的虚像	jin zhi shang de xu xiang	1
+月符	yue fu	1
+石之女神	shi zhi nv shen	1
+不生不灭的石之女神	bu sheng bu mie de shi zhi nv shen	1
+不生不灭	bu sheng bu mie	1
+符卡	fu ka	1
+非符	fei fu	1
+残机	can ji	1
+最大得点	zui da de dian	1
+得点	de dian	1
+火力	huo li	1
+刻符	ke fu	1
+夜点	ye dian	1
+逢魔	feng mo	1
+灵界	ling jie	1
+完美无缺	wan mei wu que	1
+无欠	wu qian	1
+异变石	yi bian shi	1
+异变敌	yi bian di	1
+人妖槽	ren yao cao	1
+信号槽	xin hao cao	1
+信仰槽	xin yang cao	1
+碟碎	die sui	1
+残碎	can sui	1
+雷碎	lei sui	1
+樱点	ying dian	1
+擦弹	ca dan	1
+收点	shou dian	1
+收点线	shou dian xian	1
+狼咆哮	lang pao xiao	1
+獭咆哮	ta pao xiao	1
+鹰咆哮	ying pao xiao	1
+主石	zhu shi	1
+副石	fu shi	1
+判定	pan ding	1
+点弹	dian dan	1
+菌弹	jun dan	1
+粒弹	li dan	1
+滴弹	di dan	1
+小玉	xiao yu	1
+环玉	huan yu	1
+中玉	zhong yu	1
+大玉	da yu	1
+链弹	lian dan	1
+苦无弹	ku wu dan	1
+针弹	zhen dan	1
+札弹	zha dan	1
+鳞弹	lin dan	1
+铳弹	chong dan	1
+杆菌弹	gan jun dan	1
+小星弹	xiao xing dan	1
+大星弹	da xing dan	1
+星弹	xing dan	1
+钱弹	qian dan	1
+椭弹	tuo dan	1
+剑弹	jian dan	1
+刀弹	dao dan	1
+蝶弹	die dan	1
+炎弹	yan dan	1
+水光弹	shui guang dan	1
+音符弹	yin fu dan	1
+休止符弹	xiu zhi fu dan	1
+心弹	xin dan	1
+箭弹	jian dan	1
+光玉	guang yu	1
+小阴阳玉	xiao yin yang yu	1
+大阴阳玉	da yin yang yu	1
+阴阳玉	yin yang yu	1
+菱弹	ling dan	1
+消弹	xiao dan	1
+曲线激光	qu xian ji guang	1
+预警线	yu jing xian	1
+生成杀	sheng cheng sha	1
+射击	she ji	1
+低速封印	di su feng yin	1
+高速封印	gao su feng yin	1
+续关	xu guan	1
+机师	ji shi	1
+机签	ji qian	1
+机体	ji ti	1
+子机	zi ji	1
+控枪	kong qiang	1
+停枪	ting qiang	1
+背版	bei ban	1
+版面	ban mian	1
+死尸弹	si shi dan	1
+击破撞	ji po zhuang	1
+判定点	pan ding dian	1
+体术	ti shu	1
+微移	wei yi	1
+随机弹	sui ji dan	1
+自机狙	zi ji ju	1
+交叉弹	jiao cha dan	1
+爆菊弹	bao ju dan	1
+护身弹	hu shen dan	1
+反击弹	fan ji dan	1
+奇数狙	ji shu ju	1
+偶数狙	ou shu ju	1
+奇数弹	ji shu dan	1
+偶数弹	ou shu dan	1
+弹幕	dan mu	1
+处理落	chu li luo	1
+延迟	yan chi	1
+底力	di li	1
+视野	shi ye	1
+机控	ji kong	1
+规划	gui hua	1
+折返	zhe fan	1
+走位	zou wei	1
+安定	an ding	1
+安定点	an ding dian	1
+安定线	an ding xian	1
+内避	nei bi	1
+外避	wai bi	1
+上避	shang bi	1
+下避	xia bi	1
+侧避	ce bi	1
+诱导	you dao	1
+贴脸	tie lian	1
+速攻	su gong	1
+速破	su po	1
+开荒	kai huang	1
+混关	hun guan	1
+打分	da fen	1
+推把	tui ba	1
+龙珠	long zhu	1
+爆分	bao fen	1
+吃黄	chi huang	1
+吃白	chi bai	1
+季节解放	ji jie jie fang	1
+决死	jue si	1
+杂鱼	za yu	1
+道中	dao zhong	1
+关底	guan di	1
+一非	yi fei	1
+二非	er fei	1
+三非	san fei	1
+四非	si fei	1
+五非	wu fei	1
+六非	liu fei	1
+七非	qi fei	1
+八非	ba fei	1
+九非	jiu fei	1
+十非	shi fei	1
+道中非	dao zhong fei	1
+一符	yi fu	1
+二符	er fu	1
+三符	san fu	1
+四符	si fu	1
+五符	wu fu	1
+六符	liu fu	1
+七符	qi fu	1
+八符	ba fu	1
+九符	jiu fu	1
+十符	shi fu	1
+终符	zhong fu	1
+道中符	dao zhong fu	1
+收卡	shou ka	1
+时符	shi fu	1
+全避	quan bi	1
+不死鸟	bu si niao	1
+上海人偶	shang hai ren ou	1
+背后之门	bei hou zhi men	1
+太古的勾玉	tai gu de gou yu	1
+太古勾玉	tai gu gou yu	1
+守财奴	shou cai nu	1
+死秽回避之药	si hui hui bi zhi yao	1
+不死药	bu si yao	1
+弱肉强食之理	ruo rou qiang shi zhi li	1
+法力经典	fa li jing dian	1
+弟子狸	di zi li	1
+木屐	mu ji	1
+有钱能使鬼推磨	you qian neng shi gui tui mo	1
+鬼推磨	gui tui mo	1
+肉体强化地藏	rou ti qiang hua di zang	1
+龙之烟管	long zhi yan guan	1
+画面的界线	hua mian de jie xian	1
+万宝槌	wan bao chui	1
+吸血鬼之牙	xi xue gui zhi ya	1
+地底的太阳	di di de tai yang	1
+大天狗的麦饭	da tian gou de mai fan	1
+天蓝色的勾玉	tian lan se de gou yu	1
+绯红恶魔	fei hong e mo	1
+生物赤红	sheng wu chi hong	1
+冰雪花簇	bing xue hua cu	1
+蓝色季节	lan se ji jie	1
+黄色地心	huang se di xin	1
+不朽明月	bu xiu ming yue	1
+兽之冷硬	shou zhi leng ying	1
+神道之风	shen dao zhi feng	1
+开幕	kai mu	1
+闭幕	bi mu	1
+一开	yi kai	1
+二开	er kai	1
+三开	san kai	1
+四开	si kai	1
+五开	wu kai	1
+六开	liu kai	1
+一开幕	yi kai mu	1
+二开幕	er kai mu	1
+三开幕	san kai mu	1
+四开幕	si kai mu	1
+五开幕	wu kai mu	1
+六开幕	liu kai mu	1
+一闭幕	yi bi mu	1
+二闭幕	er bi mu	1
+三闭幕	san bi mu	1
+四闭幕	si bi mu	1
+五闭幕	wu bi mu	1
+六闭幕	liu bi mu	1
+六开幕死路一条	liu kai mu si lu yi tiao	1
+魔法书	mo fa shu	1
+铁球阵	tie qiu zhen	1
+吴克	wu ke	1
+三吴克	san wu ke	1
+七吴克	qi wu ke	1
+太田飞行阵	tai tian fei xing zhen	1
+飞行阵	fei xing zhen	1
+黄绿蓝	huang lv lan	1
+激光阵	ji guang zhen	1
+黄豆阵	huang dou zhen	1
+绿豆阵	lv dou zhen	1
+黄风神	huang feng shen	1
+蓝风神	lan feng shen	1
+封兽球	feng shou qiu	1
+尾气	wei qi	1
+宝天京	bao tian jing	1
+鬼葬剑	gui zang jian	1
+梦旧市	meng jiu shi	1
+催狐谈	cui hu tan	1
+祈华梦	qi hua meng	1
+栖霞园	qi xia yuan	1
+眠世界	mian shi jie	1
+远空界	yuan kong jie	1
+资质疏	zi zhi shu	1
+真珠岛	zhen zhu dao	1
+魔宝城	mo bao cheng	1
+桃源宫	tao yuan gong	1
+白尘记	bai chen ji	1
+导命树	dao ming shu	1
+邪星章	xie xing zhang	1
+伪神灵庙	wei shen ling miao	1
+逆妙乱	ni miao luan	1
+夏夜祭	xia ye ji	1
+雪莲华	xue lian hua	1
+幕华祭	mu hua ji	1
+门殊钱	men shu qian	1
+天华楼	tian hua lou	1
+幻想杀	huan xiang sha	1
+幻梦笺	huan meng jian	1
+龙隐谈	long yin tan	1
+觉醒珠	jue xing zhu	1
+潮圣书	chao sheng shu	1
+实在相	shi zai xiang	1
+光条阁	guang tiao ge	1
+魔晶精	mo jing jing	1
+水晶宫	shui jing gong	1
+海惠堂	hai hui tang	1
+梦终剧	meng zhong ju	1
+时封城	shi feng cheng	1
+落流星	luo liu xing	1
+稀钱群	xi qian qun	1
+花逐夜	hua zhu ye	1
+百花宴	bai hua yan	1
+求霖忍	qiu lin ren	1
+妖精乡	yao jing xiang	1
+恋觉想	lian jue xiang	1
+泡台风	pao tai feng	1
+光像仪	guang xiang yi	1
+宵海格	xiao hai ge	1
+花蝴蝶	hua hu die	1
+梦无垠	meng wu yin	1
+圣战影	sheng zhan ying	1
+云源历	yun yuan li	1
+时裂空	shi lie kong	1
+命雨滴	ming yu di	1
+灵守寺	ling shou si	1
+雨仰石	yu yang shi	1
+东方宝天京	dong fang bao tian jing	1
+东方鬼葬剑	dong fang gui zang jian	1
+东方梦旧市	dong fang meng jiu shi	1
+东方催狐谈	dong fang cui hu tan	1
+东方祈华梦	dong fang qi hua meng	1
+东方栖霞园	dong fang qi xia yuan	1
+东方眠世界	dong fang mian shi jie	1
+东方远空界	dong fang yuan kong jie	1
+东方资质疏	dong fang zi zhi shu	1
+东方真珠岛	dong fang zhen zhu dao	1
+东方魔宝城	dong fang mo bao cheng	1
+东方桃源宫	dong fang tao yuan gong	1
+东方白尘记	dong fang bai chen ji	1
+东方导命树	dong fang dao ming shu	1
+东方邪星章	dong fang xie xing zhang	1
+东方伪神灵庙	dong fang wei shen ling miao	1
+东方逆妙乱	dong fang ni miao luan	1
+东方夏夜祭	dong fang xia ye ji	1
+东方雪莲华	dong fang xue lian hua	1
+东方幕华祭	dong fang mu hua ji	1
+东方门殊钱	dong fang men shu qian	1
+东方天华楼	dong fang tian hua lou	1
+东方幻想杀	dong fang huan xiang sha	1
+东方幻梦笺	dong fang huan meng jian	1
+东方龙隐谈	dong fang long yin tan	1
+东方觉醒珠	dong fang jue xing zhu	1
+东方潮圣书	dong fang chao sheng shu	1
+东方实在相	dong fang shi zai xiang	1
+东方光条阁	dong fang guang tiao ge	1
+东方魔晶精	dong fang mo jing jing	1
+东方水晶宫	dong fang shui jing gong	1
+东方海惠堂	dong fang hai hui tang	1
+东方梦终剧	dong fang meng zhong ju	1
+东方时封城	dong fang shi feng cheng	1
+东方落流星	dong fang luo liu xing	1
+东方稀钱群	dong fang xi qian qun	1
+东方花逐夜	dong fang hua zhu ye	1
+东方百花宴	dong fang bai hua yan	1
+东方求霖忍	dong fang qiu lin ren	1
+东方妖精乡	dong fang yao jing xiang	1
+东方恋觉想	dong fang lian jue xiang	1
+东方泡台风	dong fang pao tai feng	1
+东方光像仪	dong fang guang xiang yi	1
+东方宵海格	dong fang xiao hai ge	1
+东方花蝴蝶	dong fang hua hu die	1
+东方希莲船	dong fang xi lian chuan	1
+东方梦无垠	dong fang meng wu yin	1
+东方圣战影	dong fang sheng zhan ying	1
+东方云源历	dong fang yun yuan li	1
+东方时裂空	dong fang shi lie kong	1
+东方命雨滴	dong fang ming yu di	1
+东方灵守寺	dong fang ling shou si	1
+东方雨仰石	dong fang yu yang shi	1
+弹幕异夜剧	dan mu yi ye ju	1
+幻想浪漫纪行	huan xiang lang man ji xing	1
+铃集无名之丘	ling ji wu ming zhi qiu	1
+铃集	ling ji	1
+连缘	lian yuan	1
+连缘无现里	lian yuan wu xian li	1
+连缘蛇丛剑	lian yuan she cong jian	1
+连缘灵烈传	lian yuan ling lie chuan	1
+连缘天影战记	lian yuan tian ying zhan ji	1
+无现里	wu xian li	1
+蛇丛剑	she cong jian	1
+灵烈传	ling lie chuan	1
+天影战记	tian ying zhan ji	1
+雪晶石	xue jing shi	1
+幡紫龙	fan zi long	1
+秋霜玉	qiu shuang yu	1
+稀翁玉	xi weng yu	1
+西方幡紫龙	xi fang fan zi long	1
+西方秋霜玉	xi fang qiu shuang yu	1
+西方稀翁玉	xi fang xi weng yu	1
+黄昏酒场	huang hun jiu chang	1
+红月篇	hong yue pian	1
+春雪篇	chun xue pian	1
+永夜篇	yong ye pian	1
+卧天则闪	wo tian ze shan	1
+芙蕾雅	fu lei ya	1
+时焉侑	shi yan you	1
+博丽梦入	bo li meng ru	1
+九鬼梦沙罗	jiu gui meng sha luo	1
+雾雨顺子	wu yu shun zi	1
+不知火米兰	bu zhi huo mi lan	1
+角旗天一	jiao qi tian yi	1
+荣术丸樱	rong shu wan ying	1
+阿尔特米娜	a er te mi na	1
+露妮	lu ni	1
+阿尔特米娜·露妮	a er te mi na	1
+可莱娜	ke lai na	1
+古拉托尼	gu la tuo ni	1
+可莱娜·古拉托尼	ke lai na	1
+莱卡洛普娅	lai ka luo pu ya	1
+莱卡洛普娅·赫恩	lai ka luo pu ya	1
+莉莉布莱克	li li bu lai ke	1
+玛格丽特	ma ge li te	1
+勒夏	lei xia	1
+玛格丽特·勒夏	ma ge li te	1
+索妮亚	suo ni ya	1
+索妮亚·冯·奥尔斯佩	suo ni ya	1
+伊莉菲亚	yi li fei ya	1
+玛修	ma xiu	1
+伊莉菲亚·玛修	yi li fei ya	1
+神宫寺祈	shen gong si qi	1
+神无月绘光	shen wu yue hui guang	1
+虚城妃奏华	xu cheng fei zou hua	1
+岩渊永	yan yuan yong	1
+樱华院静	ying hua yuan jing	1
+岸燐火	an lin huo	1
+北条云雨	bei tiao yun yu	1
+大山唯	da shan wei	1
+天宫清雨	tian gong qing yu	1
+燕羽玄兆	yan yu xuan zhao	1
+天原那美	tian yuan na mei	1
+古灵灵	gu ling ling	1
+魅明魔影	mei ming mo ying	1
+梦璃夜天星	meng li ye tian xing	1
+桃雨洛熙	tao yu luo xi	1
+桃雨洛薰	tao yu luo xun	1
+雾隐梨花	wu yin li hua	1
+夏青柳	xia qing liu	1
+娅米	ya mi	1
+夜雨刃	ye yu ren	1
+暗华美夜香	an hua mei ye xiang	1
+莉帕斯	li pa si	1
+莉帕斯·缇米蒂丝·白雪	li pa si	1
+缇米蒂丝	ti mi di si	1
+白雪	bai xue	1
+妙严宫雪华	miao yan gong xue hua	1
+墨樱初月	mo ying chu yue	1
+蚀神星罗	shi shen xing luo	1
+荼靡结音	tu mi jie yin	1
+万光绘照	wan guang hui zhao	1
+雪珂	xue ke	1
+晶耀泛纱	jing yao fan sha	1
+克拉丽贝尔	ke la li bei er	1
+路易莎	lu yi sha	1
+克拉丽贝尔·路易莎	ke la li bei er	1
+雾凛凉纪	wu lin liang ji	1
+爱赫娜特恩	ai he na te en	1
+凝心	ning xin	1
+爱赫娜特恩·凝心	ai he na te en	1
+梦行远游	meng xing yuan you	1
+明隐玄思	ming yin xuan si	1
+神欲知现空	shen yu zhi xian kong	1
+鞍马乐	an ma le	1
+比卖藤雷	bi mai teng lei	1
+宾卡瓦兹	bin ka wa zi	1
+门冬羽日	men dong yu ri	1
+萱野美华	xuan ye mei hua	1
+忆尘皆故	yi chen jie gu	1
+雨品龙暗座	yu pin long an zuo	1
+雨品龙高戒	yu pin long gao jie	1
+正鹿山得敏	zheng lu shan de min	1
+左城宫则纱	zuo cheng gong ze sha	1
+海重乃汐	hai zhong nai xi	1
+黄媛祸	huang yuan huo	1
+江西䌷	jiang xi chou	1
+七宝万华	qi bao wan hua	1
+奇李蝶蚕	qi li die can	1
+阿尔卡罗伊德	a er ka luo yi de	1
+奇李蝶蚕·阿尔卡罗伊德	qi li die can	1
+王贵人也	wang gui ren ye	1
+心凹守	xin ao shou	1
+新帝梅	xin di mei	1
+心天卦	xin tian gua	1
+心天音	xin tian yin	1
+夜宝皇京	ye bao huang jing	1
+阿祖尔	a zu er	1
+斯沃尔	si wo er	1
+阿祖尔·斯沃尔	a zu er	1
+八百目实	ba bai mu shi	1
+八衢明伎	ba qu ming ji	1
+绊锣币顷	ban luo bi qing	1
+钵特摩	bo te mo	1
+罗刹娑	luo cha suo	1
+钵特摩·罗刹娑	bo te mo	1
+风岚梅姬	feng lan mei ji	1
+金吉利利	jin ji li li	1
+水混祐毋	shui hun you wu	1
+王邪魅	wang xie mei	1
+眩萨迦	xuan sa jia	1
+翼彩波	yi cai bo	1
+梅美	mei mei	1
+三珠钿目	san zhu dian mu	1
+三珠申田	san zhu shen tian	1
+宇贺神稻狐	yu he shen dao hu	1
+纣真藻	zhou zhen zao	1
+锷木幸子	e mu xing zi	1
+影面	ying mian	1
+飞仓百百	fei cang bai bai	1
+荒神药子	huang shen yao zi	1
+祸原命庙	huo yuan ming miao	1
+萨菈卡	sa la ka	1
+桑坦捷	sang tan jie	1
+萨菈卡·桑坦捷	sa la ka	1
+祟德院天梦	sui de yuan tian meng	1
+远音莉可	yuan yin li ke	1
+八重咲杏	ba zhong xiao xing	1
+河城见取	he cheng jian qu	1
+不破见舞子	bu po jian wu zi	1
+八方步	ba fang bu	1
+加尔穆	jia er mu	1
+芦川真鱼	lu chuan zhen yu	1
+尼勒丝	ni lei si	1
+艾斯莱特	ai si lai te	1
+尼勒丝·艾斯莱特	ni lei si	1
+水无月	shui wu yue	1
+水无月·四目·拉维亚塔	shui wu yue	1
+十二外干支	shi er wai gan zhi	1
+小金井无夜	xiao jin jing wu ye	1
+鹰海婴命	ying hai ying ming	1
+白金延寿	bai jin yan shou	1
+光平向日葵	guang ping xiang ri kui	1
+泉野偲	quan ye cai	1
+十字原朱器	shi zi yuan zhu qi	1
+水绳城万龟	shui sheng cheng wan gui	1
+苇名镜海	wei ming jing hai	1
+御剑缝重子	yu jian feng zhong zi	1
+竹桥目土	zhu qiao mu tu	1
+八苏神秋雨	ba su shen qiu yu	1
+兜冢守桔梗	dou zhong shou jie geng	1
+马駈场赤兔	ma qu chang chi tu	1
+丝诺柯狄亚	si nuo ke di ya	1
+饕喰乐魔喰乐	tao can le mo can le	1
+卧龙圆龙梦	wo long yuan long meng	1
+一太刀镰	yi tai dao lian	1
+一太刀鼬	yi tai dao you	1
+在原雅子	zai yuan ya zi	1
+大黑二六二	da hei er liu er	1
+七头疵露子	qi tou ci lu zi	1
+锡器燃	xi qi ran	1
+八百比海琴	ba bai bi hai qin	1
+八百比恵	ba bai bi hui	1
+观福宫乙姬	guan fu gong yi ji	1
+深堂香澄	shen tang xiang cheng	1
+水无月燕	shui wu yue yan	1
+涡岛鸣子	wo dao ming zi	1
+须佐乃森木叶	xu zuo nai sen mu ye	1
+雨津海遥	yu jin hai yao	1
+风花	feng hua	1
+海津岛	hai jin dao	1
+海铃莉	hai ling li	1
+海色叶	hai se ye	1
+海水面	hai shui mian	1
+海尾张	hai wei zhang	1
+黑波	hei bo	1
+花锦	hua jin	1
+金流	jin liu	1
+清川	qing chuan	1
+刺田严姬	ci tian yan ji	1
+大伴家珠叶	da ban jia zhu ye	1
+平贺生然	ping he sheng ran	1
+仙觉寺鞠子	xian jue si ju zi	1
+轩端目目	xuan duan mu mu	1
+藏人未见	zang ren wei jian	1
+几缟雪娘	ji gao xue niang	1
+桐生伊利斯	tong sheng yi li si	1
+瓦伦丁	wa lun ding	1
+饴之原望星	yi zhi yuan wang xing	1
+安妮卡	an ni ka	1
+安妮卡·A·T·B·冯·霍恩海姆	an ni ka	1
+藤原文祢	teng yuan wen mi	1
+天青坊知雨姬	tian qing fang zhi yu ji	1
+暗水早	an shui zao	1
+火月小百合	huo yue xiao bai he	1
+见神铃鹿	jian shen ling lu	1
+僧正子	seng zheng zi	1
+星蛇月子	xing she yue zi	1
+黑冢赤实	hei zhong chi shi	1
+龙子	long zi	1
+孙月孛	sun yue bei	1
+文殊院善罪	wen shu yuan shan zui	1
+右门金阁	you men jin ge	1
+左门银阁	zuo men yin ge	1
+艾吉永	ai ji yong	1
+吉芙坦泽尔	ji fu tan ze er	1
+艾吉永·吉芙坦泽尔	ai ji yong	1
+蓟根彩梦	ji gen cai meng	1
+旧遥翠川	jiu yao cui chuan	1
+鹭森苍海	lu sen cang hai	1
+明阳炎	ming yang yan	1
+鸣上光	ming shang guang	1
+绵月伍姬	mian yue wu ji	1
+席昂	xi ang	1
+菲莉普斯	fei li pu si	1
+席昂·菲莉普斯	xi ang	1
+一枝	yi zhi	1
+远堂丰海	yuan tang feng hai	1
+阿普尔	a pu er	1
+格林顿	ge lin dun	1
+阿普尔·格林顿	a pu er	1
+菲札	fei zha	1
+洪水努亚	hong shui nu ya	1
+蕾瓦伦斯	lei wa lun si	1
+利萨基	li sa ji	1
+佩尔	pei er	1
+范海德	fan hai de	1
+佩尔·范海德	pei er	1
+平家蟹塞勒涅	ping jia xie sai lei nie	1
+一华优朋	yi hua you peng	1
+伊邪云艾蕾娜	yi xie yun ai lei na	1
+干草光线	gan cao guang xian	1
+米莱莉姆	mi lai li mu	1
+斯兹美	si zi mei	1
+法布丽蒂丝	fa bu li di si	1
+芙玛	fu ma	1
+米珊朵拉	mi shan duo la	1
+芙玛·米珊朵拉	fu ma	1
+明津祢津	ming jin mi jin	1
+望月一曜	wang yue yi yao	1
+谢莉亚	xie li ya	1
+莱拉克	lai la ke	1
+谢莉亚·莱拉克	xie li ya	1
+伊芙妮娅	yi fu ni ya	1
+真田千子	zhen tian qian zi	1
+鹰藤鸢子	ying teng yuan zi	1
+尼克斯	ni ke si	1
+修普	xiu pu	1
+艾科托塔	ai ke tuo ta	1
+灯笼坂爱美	deng long ban ai mei	1
+卡特琳娜	ka te lin na	1
+铃	ling	1
+卡特琳娜·铃	ka te lin na	1
+青草实夕	qing cao shi xi	1
+天白鹭剪世树	tian bai lu jian shi shu	1
+雪村布返	xue cun bu fan	1
+夜花铁子	ye hua tie zi	1
+艾普洛	ai pu luo	1
+拉格拉姆	la ge la mu	1
+艾普洛·拉格拉姆	ai pu luo	1
+丛影奥菲拉	cong ying ao fei la	1
+勘解由小路瑞浦	kan jie you xiao lu rui pu	1
+莳野梦乃原	shi ye meng nai yuan	1
+枢纱依	shu sha yi	1
+乐冢魇音	le zhong yan yin	1
+稚彩千绘歌	zhi cai qian hui ge	1
+安倍氏清姬	an bei shi qing ji	1
+八俣夜刀	ba yu ye dao	1
+曲辻初名	qu shi chu ming	1
+水天宫皇女	shui tian gong huang nv	1
+武内垂神	wu nei chui shen	1
+邪马台与桃姬	xie ma tai yu tao ji	1
+野见埴得	ye jian zhi de	1
+无名的拉莱耶妖精	wu ming de la lai ye yao jing	1
+琉璃	liu li	1
+长光切	zhang guang qie	1
+船魄彷兰	chuan po pang lan	1
+泷夜叉髑髅	long ye cha du lou	1
+梅露	mei lu	1
+阿库娅珀莉	a ku ya po li	1
+梅露·阿库娅珀莉	mei lu	1
+平景清眼	ping jing qing yan	1
+天岐宫德子	tian qi gong de zi	1
+天岐宫显子	tian qi gong xian zi	1
+六地藏千鹤	liu di zang qian he	1
+龙灯神火	long deng shen huo	1
+绵摘灵妃	mian zhai ling fei	1
+绵摘鱼李	mian zhai yu li	1
+瀑布河早濑	pu bu he zao lai	1
+边川丰水	bian chuan feng shui	1
+鳄鸟海美容	e niao hai mei rong	1
+恩克	en ke	1
+蕾切尔	lei qie er	1
+米开朗基罗	mi kai lang ji luo	1
+蕾切尔·米开朗基罗	lei qie er	1
+琼	qiong	1
+罗兹洛兹	luo zi luo zi	1
+琼·罗兹洛兹	qiong	1
+艾尔芬敏特	ai er fen min te	1
+可琳	ke lin	1
+夏利特	xia li te	1
+可琳·夏利特	ke lin	1
+玛莉雪佛德	ma li xue fu de	1
+皮雅希缇	pi ya xi ti	1
+帕斯卡尔	pa si ka er	1
+皮雅希缇·帕斯卡尔	pi ya xi ti	1
+瓮星无无梦	weng xing wu wu meng	1
+伊书亚	yi shu ya	1
+拿撒勒努斯	na sa lei nu si	1
+伊书亚·拿撒勒努斯	yi shu ya	1
+珍妮特	zhen ni te	1
+奥康捷	ao kang jie	1
+珍妮特·奥康捷	zhen ni te	1
+米歇尔	mi xie er	1
+米歇尔·桑坦捷	mi xie er	1
+白波瑞池	bai bo rui chi	1
+雨满河	yu man he	1
+白袴幺	bai ku yao	1
+德雀坊紫鸾	de que fang zi luan	1
+绯神乱乱	fei shen luan luan	1
+鸟澄珠乌	niao cheng zhu wu	1
+青鹭光子	qing lu guang zi	1
+赛特大将	sai te da jiang	1
+藤壶无名异	teng hu wu ming yi	1
+檍原筑紫	yi yuan zhu zi	1
+茇萝涩德	ba luo se de	1
+玛栉莉	ma zhi li	1
+茇萝涩德·玛栉莉	ba luo se de	1
+朵拉弩丝	duo la nu si	1
+荷苗忧芽	he miao you ya	1
+零名	ling ming	1
+奴露	nu lu	1
+莉葵忒	li kui te	1
+奴露·莉葵忒	nu lu	1
+忧芙翠丝	you fu cui si	1
+拉帕其尼	la pa qi ni	1
+忧芙翠丝·拉帕其尼	you fu cui si	1
+直灵早璧	zhi ling zao bi	1
+无耳	wu er	1
+囧仙	jiong xian	1
+星期六上线	xing qi liu shang xian	1
+雨天放晴	yu tian fang qing	1
+星苗火紫	xing miao huo zi	1
+雾雨威	wu yu wei	1
+覭千缘	ming qian yuan	1
+二色幽紫蝶	er se you zi die	1
+东游鉴	dong you jian	1
+实况主本人	shi kuang zhu ben ren	1
+残机消失之夜	can ji xiao shi zhi ye	1
+伊吹小秋	yi chui xiao qiu	1
+幻想乡的新月	huan xiang xiang de xin yue	1
+七份草莓圣代	qi fen cao mei sheng dai	1
+星海天下	xing hai tian xia	1
+池田恒基	chi tian heng ji	1
+矢川忍	shi chuan ren	1
+太田顺也	tai tian shun ye	1
+砂砾籽	sha li zi	1
+岁月之痕	sui yue zhi hen	1
+纯梦	chun meng	1
+挽歌	wan ge	1
+碗哥	wan ge	1
+博丽灵梦	bllm	1
+雾雨魔理沙	wymls	1
+露米娅	lmy	1
+大妖精	dyj	1
+琪露诺	qln	1
+红美铃	hml	1
+小恶魔	xem	1
+帕秋莉	pql	1
+诺蕾姬	nlj	1
+帕秋莉·诺蕾姬	pql	1
+十六夜咲夜	slyxy	1
+蕾米莉亚	lmly	1
+斯卡蕾特	sklt	1
+蕾米莉亚·斯卡蕾特	lmly	1
+芙兰朵露	fldl	1
+芙兰朵露·斯卡蕾特	fldl	1
+霍瓦特洛克	hwtlk	1
+爱丽丝	als	1
+玛格特洛依德	mgtlyd	1
+爱丽丝·玛格特洛依德	als	1
+莉莉霍瓦特	llhwt	1
+露娜萨	lns	1
+普莉兹姆利巴	plzmlb	1
+露娜萨·普莉兹姆利巴	lns	1
+梅露兰	mll	1
+梅露兰·普莉兹姆利巴	mll	1
+莉莉卡	llk	1
+莉莉卡·普莉兹姆利巴	llk	1
+魂魄妖梦	hpym	1
+西行寺幽幽子	xxsyyz	1
+八云蓝	byl	1
+八云紫	byz	1
+伊吹萃香	yccx	1
+莉格露	lgl	1
+奈特巴格	ntbg	1
+莉格露·奈特巴格	lgl	1
+米斯蒂娅	msdy	1
+萝蕾拉	lll	1
+米斯蒂娅·萝蕾拉	msdy	1
+上白泽慧音	sbzhy	1
+因幡天为	yftw	1
+八意永琳	byyl	1
+蓬莱山辉夜	plshy	1
+藤原妹红	tymh	1
+梅蒂欣	mdx	1
+梅兰可莉	mlkl	1
+梅蒂欣·梅兰可莉	mdx	1
+风见幽香	fjyx	1
+小野塚小町	xyzxt	1
+四季映姬	sjyj	1
+夜摩仙那度	ymxnd	1
+四季映姬·夜摩仙那度	sjyj	1
+秋静叶	qjy	1
+秋穰子	qrz	1
+键山雏	jsc	1
+河城荷取	hchq	1
+犬走椛	qzh	1
+东风谷早苗	dfgzm	1
+八坂神奈子	bbsnz	1
+洩矢诹访子	xszfz	1
+永江衣玖	yjyj	1
+比那名居天子	bnmjtz	1
+琪斯美	qsm	1
+黑谷山女	hgsn	1
+水桥帕露西	sqplx	1
+星熊勇仪	xxyy	1
+古明地觉	gmdj	1
+火焰猫燐	hyml	1
+灵乌路空	lwlk	1
+古明地恋	gmdl	1
+娜兹玲	nzl	1
+多多良小伞	ddlxs	1
+云居一轮	yjyl	1
+村纱水蜜	cssm	1
+寅丸星	ywx	1
+圣白莲	sbl	1
+封兽鵺	fsy	1
+姬海棠果	jhtg	1
+幽谷响子	ygxz	1
+宫古芳香	ggfx	1
+霍青娥	hqe	1
+苏我屠自古	swtzg	1
+物部布都	wbbd	1
+丰聪耳神子	fcesz	1
+二岩猯藏	eytc	1
+若鹭姬	rlj	1
+赤蛮奇	cmq	1
+今泉影狼	jqyl	1
+九十九弁弁	jsjbb	1
+九十九八桥	jsjbq	1
+鬼人正邪	grzx	1
+少名针妙丸	smzmw	1
+堀川雷鼓	kclg	1
+宇佐见堇子	yzjjz	1
+哆来咪	dlm	1
+苏伊特	syt	1
+哆来咪·苏伊特	dlm	1
+稀神探女	xstn	1
+克劳恩皮丝	kleps	1
+赫卡提亚	hkty	1
+拉碧斯拉祖利	lbslzl	1
+赫卡提亚·拉碧斯拉祖利	hkty	1
+依神女苑	ysny	1
+依神紫苑	yszy	1
+爱塔妮缇拉尔瓦	atntlew	1
+坂田合欢	bthh	1
+高丽野阿吽	glyah	1
+矢田寺成美	stscm	1
+尔子田里乃	eztln	1
+丁礼田舞	dltw	1
+摩多罗隐岐奈	mdlyqn	1
+戎璎花	ryh	1
+牛崎润美	nqrm	1
+庭渡久侘歌	tdjcg	1
+吉吊八千慧	jdbqh	1
+杖刀偶磨弓	zdomg	1
+埴安神袿姬	zasgj	1
+骊驹早鬼	ljzg	1
+饕餮尤魔	ttym	1
+豪德寺三花	hdssh	1
+山城高岭	scgl	1
+驹草山如	jcsr	1
+玉造魅须丸	yzmxw	1
+菅牧典	jmd	1
+饭纲丸龙	fgwl	1
+天弓千亦	tgqy	1
+姬虫百百世	jcbbs	1
+孙美天	smt	1
+三头慧之子	sthzz	1
+天火人血枪	thrxq	1
+豫母都日狭美	ymdrxm	1
+日白残无	rbcw	1
+尘塚姥芽	czly	1
+封兽魑魅	fscm	1
+道神驯子	dsxz	1
+磐永阿梨夜	pyaly	1
+渡里贝子	dlbz	1
+矜羯罗	jjl	1
+幽幻魔眼	yhmy	1
+依莉斯	yls	1
+萨丽爱尔	slae	1
+小兔姬	xtj	1
+安娜贝拉尔	anble	1
+朝仓理香子	cclxz	1
+北白河千百合	bbhqbh	1
+冈崎梦美	gqmm	1
+奥莲姬	alj	1
+露易兹	lyz	1
+森近霖之助	sjlzz	1
+桑尼米尔克	snmek	1
+露娜切露德	lnqld	1
+斯塔萨菲雅	stsfy	1
+射命丸文	smww	1
+绵月丰姬	myfj	1
+绵月依姬	myyj	1
+稗田阿求	btaq	1
+茨木华扇	cmhs	1
+本居小铃	bjxl	1
+奥野田美宵	aytmx	1
+宫出口瑞灵	gckrl	1
+宇佐见莲子	yzjlz	1
+玛艾露贝莉	malbl	1
+玛艾露贝莉·赫恩	malbl	1
+魔理沙	mls	1
+十六夜	sly	1
+西行寺	xxs	1
+幽幽子	yyz	1
+上白泽	sbz	1
+蓬莱山	pls	1
+小野塚	xyz	1
+东风谷	dfg	1
+神奈子	snz	1
+诹访子	zfz	1
+比那名居	bnmj	1
+帕露西	plx	1
+火焰猫	hym	1
+灵乌路	lwl	1
+古明地	gmd	1
+多多良	ddl	1
+姬海棠	jht	1
+屠自古	tzg	1
+丰聪耳	fce	1
+九十九	jsj	1
+针妙丸	zmw	1
+宇佐见	yzj	1
+克劳恩	kle	1
+拉尔瓦	lew	1
+高丽野	gly	1
+矢田寺	sts	1
+尔子田	ezt	1
+丁礼田	dlt	1
+摩多罗	mdl	1
+隐岐奈	yqn	1
+久侘歌	jcg	1
+八千慧	bqh	1
+偶磨弓	omg	1
+埴安神	zas	1
+豪德寺	hds	1
+魅须丸	mxw	1
+饭纲丸	fgw	1
+百百世	bbs	1
+慧之子	hzz	1
+天火人	thr	1
+豫母都	ymd	1
+日狭美	rxm	1
+阿梨夜	aly	1
+射命丸	smw	1
+奥野田	ayt	1
+宫出口	gck	1
+莉莉白	llb	1
+莉莉黑	llh	1
+布嘟嘟	bdd	1
+大狸子	dlz	1
+飞头蛮	ftm	1
+大蛾子	dez	1
+因幡帝	yfd	1
+坂田合欢乃	bthhn	1
+姬海棠羽立	jhtyl	1
+渡里妮娜	dlnn	1
+东方灵异传	dflyc	1
+东方封魔录	dffml	1
+东方梦时空	dfmsk	1
+东方幻想乡	dfhxx	1
+东方怪绮谈	dfgqt	1
+东方红魔乡	dfhmx	1
+东方妖妖梦	dfyym	1
+东方萃梦想	dfcmx	1
+东方永夜抄	dfyyc	1
+东方花映塚	dfhyz	1
+东方风神录	dffsl	1
+东方地灵殿	dfdld	1
+东方星莲船	dfxlc	1
+东方绯想天	dffxt	1
+东方文花帖	dfwht	1
+东方心绮楼	dfxql	1
+东方神灵庙	dfslm	1
+东方辉针城	dfhzc	1
+东方深秘录	dfsml	1
+东方绀珠传	dfgzc	1
+东方凭依华	dfpyh	1
+东方天空璋	dftkz	1
+东方鬼形兽	dfgxs	1
+东方刚欲异闻	dfgyyw	1
+东方虹龙洞	dfhld	1
+东方兽王园	dfswy	1
+东方锦上京	dfjsj	1
+东方香霖堂	dfxlt	1
+东方儚月抄	dfmyc	1
+东方求闻史纪	dfqwsj	1
+东方茨歌仙	dfcgx	1
+东方铃奈庵	dflna	1
+东方醉蝶华	dfzdh	1
+东方智灵奇传	dfzlqc	1
+东方三月精	dfsyj	1
+妖精大战争	yjdzz	1
+幻存神签	hcsq	1
+东方紫香花	dfzxh	1
+东方外来韦编	dfwlwb	1
+灵异传	lyc	1
+封魔录	fml	1
+梦时空	msk	1
+幻想乡	hxx	1
+怪绮谈	gqt	1
+红魔乡	hmx	1
+妖妖梦	yym	1
+萃梦想	cmx	1
+永夜抄	yyc	1
+花映塚	hyz	1
+风神录	fsl	1
+地灵殿	dld	1
+星莲船	xlc	1
+绯想天	fxt	1
+文花帖	wht	1
+心绮楼	xql	1
+神灵庙	slm	1
+辉针城	hzc	1
+深秘录	sml	1
+绀珠传	gzc	1
+凭依华	pyh	1
+天空璋	tkz	1
+鬼形兽	gxs	1
+刚欲异闻	gyyw	1
+虹龙洞	hld	1
+兽王园	swy	1
+锦上京	jsj	1
+香霖堂	xlt	1
+儚月抄	myc	1
+求闻史纪	qwsj	1
+茨歌仙	cgx	1
+铃奈庵	lna	1
+醉蝶华	zdh	1
+智灵奇传	zlqc	1
+三月精	syj	1
+大战争	dzz	1
+蓬莱人形	plrx	1
+莲台野夜行	ltyyx	1
+梦违科学世纪	mwkxsj	1
+卯酉东海道	mydhd	1
+大空魔术	dkms	1
+未知之花 魅知之旅	wzzh mzzl	1
+鸟船遗迹	ncyj	1
+伊奘诺物质	yznwz	1
+燕石博物志	ysbwz	1
+旧约酒馆	jyjg	1
+虹色的北斗七星	hsdbdqx	1
+七夕坂梦幻能	qxbmhn	1
+风之神社	fzss	1
+永远之巫女	yyzwn	1
+东方怪奇谈	dfgqt	1
+破邪的小太刀	pxdxtd	1
+直到倒地死去的那一刻	zdddsqdnyk	1
+星幽剑士	xyjs	1
+鸢尾花	ywh	1
+同归于尽	tgyj	1
+以死相赌	ysxd	1
+远野之森	yyzs	1
+战车娘所做的梦	zcnszdm	1
+空白少女	kbsn	1
+梦消失	mxs	1
+梦幻游戏	mhyx	1
+魔法决战	mfjz	1
+非统一魔法世界论	ftymfsjl	1
+魔法钟爱	mfza	1
+久远之梦	jyzm	1
+东方的蓝色天空	dfdlstk	1
+永远的满月	yydmy	1
+灵人的休息日	lrdxxr	1
+时之风	szf	1
+装饰战	zsz	1
+红响曲	hxq	1
+少女绮想曲	snqxq	1
+星之器	xzq	1
+沉睡的恐怖	csdkb	1
+不可不禁止的游戏	bkbjzdyx	1
+女仆幻想	nphx	1
+可爱的恶魔	kadem	1
+幻想的居民	hxdjm	1
+东方妖恋谈	dfylt	1
+魔法阵	mfz	1
+梦想时空	mxsk	1
+禁忌的魔法	jjdmf	1
+绯红的少女	fhdsn	1
+背叛的少女	bpdsn	1
+可悲的人偶	kbdro	1
+世界的尽头	sjdjt	1
+神话幻想	shhx	1
+不可思议之国的爱丽丝	bksyzgdals	1
+永远的乐园	yydly	1
+灵魂安息之所	lhaxzs	1
+飞翔在夜晚的鸠山	fxzywdjs	1
+幻想帝都	hxdd	1
+华之幻想	hzhx	1
+红梦之宙	hmzz	1
+天空军团	tkjt	1
+斯普特尼克幻夜	sptnkhy	1
+机械马戏团	jxmxt	1
+卡纳维拉尔角的梦幻少女	knwlejdmhsn	1
+魔法少女十字军	mfsnszj	1
+梦机械	mjx	1
+少女神性	snsx	1
+幻想科学	hxkx	1
+魔女们的舞会	mnmdwh	1
+魔女们的舞踏会	mnmdwth	1
+二色莲花蝶	eslhd	1
+天鹅绒少女战	tersnz	1
+俄耳甫斯的诗	eefsds	1
+新幻想	xhx	1
+奥尔良的圣骑士	aeldsqs	1
+樱花之恋塚	yhzlz	1
+少女战士	snzs	1
+乙女战士	ynzs	1
+神秘的人偶	smdro	1
+酒鬼的雷姆利亚	jgdlmly	1
+珍奇的上海古牌	zqdshgp	1
+神魔讨绮传	smtqc	1
+灰姑娘的笼子	hgndlz	1
+独一无二的投影	dywedty	1
+日日是红日	rrshr	1
+风神少女	fssn	1
+阿礼的孩子	aldhz	1
+因夜失眠	yysm	1
+妖精灿烂的样子	yjcldyz	1
+桑尼米尔克的红雾异变	snmekdhwyb	1
+雪月樱花之国	xyyhzg	1
+妖怪宇宙旅行	ygyzlx	1
+绵月的符卡	mydfk	1
+可爱的大战争叠奏曲	kaddzzdzq	1
+魔法使的忧郁	mfsdyy	1
+妖精冒险谭	yjmxt	1
+两方世界	lfsj	1
+神域的捉迷藏生活	sydzmcsh	1
+识文解意的爱书人	swjydasr	1
+比赤色更红的梦	bcsghdm	1
+如鬼灯般的红色之魂	rgdbdhszh	1
+妖魔夜行	ymyx	1
+活泼的纯情小姑娘	hpdcqxgn	1
+上海红茶馆	shhcg	1
+明治十七年的上海爱丽丝	mzsqndshals	1
+伏瓦鲁魔法图书馆	fwlmftsg	1
+少女密室	snms	1
+女仆与血之怀表	npyxzhb	1
+月时计	ysj	1
+特佩斯的年幼末裔	tpsdnymy	1
+献给已逝公主的七重奏	xgysgzdqcz	1
+魔法少女们的百年祭	mfsnmdbnj	1
+比红色更虚无的永远	bhsgxwdyy	1
+无何有之乡	whyzx	1
+远野幻想物语	yyhxwy	1
+凋叶棕	dyz	1
+布加勒斯特的人偶师	bjlstdros	1
+人偶裁判	rocp	1
+玩弄人形的少女	wnrxdsn	1
+天空的花都	tkdhd	1
+幽灵乐团	ylyt	1
+广有射怪鸟事	gysgns	1
+幽雅地绽放吧	yydzfb	1
+墨染的樱花	mrdyh	1
+妖妖跋扈	yybh	1
+少女幻葬	snhz	1
+春风之梦	cfzm	1
+樱花樱花	yhyh	1
+蠢蠢的秋月	ccdqy	1
+夜雀的歌声	yqdgs	1
+已经只能听见歌声了	yjzntjgsl	1
+令人怀念的东方之血	lrhnddfzx	1
+永夜的报应	yydby	1
+狂气之瞳	kqzt	1
+千年幻想乡	qnhxx	1
+竹取飞翔	zqfx	1
+蓬莱人	plr	1
+飘上月球	psyq	1
+不死之烟	bszy	1
+月见草	yjc	1
+幽玄的枫树	yxdfs	1
+东方妖怪小町	dfygxt	1
+夜幕降临	ymjl	1
+御伽之国的鬼岛	ygzgdgd	1
+间奏曲	jzq	1
+春色小径	csxj	1
+宇佐大人的白旗	yzdrdbq	1
+剧毒身体	jdst	1
+今昔幻想乡	jxhxx	1
+彼岸归航	bagh	1
+第六十年的东方审判	dlsnddfsp	1
+映花之塚	yhzz	1
+此岸之塚	cazz	1
+花如幻想一般	hrhxyb	1
+魂之花	hzh	1
+天狗的笔记	tgdbj	1
+风的循环	fdxh	1
+天狗正凝视着	tgznsz	1
+东之国的不眠夜	dzgdbmy	1
+回忆京都	hyjd	1
+被封印的众神	bfydzs	1
+眷爱众生之神	jazszs	1
+会受稻田姬的斥责啦	hsdtjdczl	1
+厄神降临之路	esjlzl	1
+命运的阴暗面	mydyam	1
+众神眷恋的幻想乡	zsjldhxx	1
+芥川龙之介的河童	jclzjdht	1
+秋意渐浓之瀑	qyjnzp	1
+妖怪之山	ygzs	1
+少女曾见的日本原风景	sncjdrbyfj	1
+信仰是为了虚幻之人	xyswlxhzr	1
+御柱的墓场	yzdmc	1
+神圣庄严的古战场	sszydgzc	1
+明日之盛	mrzs	1
+昨日之俗	zrzs	1
+山脚的神社	sjdss	1
+神明降下恩惠之雨	smjxehzy	1
+日常坐卧	rczw	1
+地之色乃黄色	dzsnhs	1
+甲论乙驳	jlyb	1
+风光明媚	fgmm	1
+散发着香气的树叶花	sfzxqdsyh	1
+飞舞的水飞沫	fwdsfm	1
+以鱼驱蝇	yyqy	1
+放纵不羁	fzbj	1
+嘲讽的游戏	cfdyx	1
+冷吟闲醉	lyxz	1
+云外苍天	ywct	1
+黑海中的绯红	hhzdfh	1
+天衣无缝	tywf	1
+有顶天变	ydtb	1
+幼小的有顶天	yxdydt	1
+暮色苍然	mscr	1
+地灵们的起床	dlmdqc	1
+昏暗的风穴	hadfx	1
+被封印的妖怪	bfydyg	1
+阻绝人迹之桥	zjrjzq	1
+绿眼的嫉妒	lydjd	1
+漫游旧地狱街道	myjdyjd	1
+大江山的花之酒宴	djsdhzjy	1
+少女觉	snj	1
+废狱摇篮曲	fyylq	1
+尸体旅行	stlx	1
+业火地幔	yhdm	1
+灵知的太阳信仰	lzdtyxy	1
+哈德曼的妖怪少女	hdmdygsn	1
+地灵们的归家	dlmdgj	1
+能源黎明	nylm	1
+青空之影	qkzy	1
+春之港湾	czgw	1
+春色岸边	csab	1
+小小的贤将	xxdxj	1
+封闭的云中通路	fbdyztl	1
+请注意万年备用伞	qzywnbys	1
+守旧老爹与前卫少女	sjldyqwsn	1
+幽灵客船的穿越时空之旅	ylkcdcyskzl	1
+魔界地方都市秘境	mjdfdsmj	1
+虎纹的毘沙门天	hwdpsmt	1
+法界之火	fjzh	1
+感情的摩天楼	gqdmtl	1
+夜空中的UFO恋曲	ykzdUlq	1
+平安时代的外星人	pasddwxr	1
+妖怪寺	ygs	1
+空中的归路	kzdgl	1
+你见到了那个影子吗	njdlngyzm	1
+传说的巨神	csdjs	1
+我们的非想天则	wmdfxtz	1
+人偶存在的风景	roczdfj	1
+悠久的蒸汽机关	yjdzqjg	1
+未知物	wzw	1
+空中飘浮的物体X	kzpfdwtX	1
+巨大的影子与渺小的结局	jddyzymxdjj	1
+你所在之城的怪事	nszzcdgs	1
+现代妖怪殖民地	xdygzmd	1
+复仇女神的要塞	fcnsdys	1
+无间之钟	wjzz	1
+春之冰精	czbj	1
+赌上性命去恶作剧	dsxmqezj	1
+时刻旺盛的好奇心	skwsdhqx	1
+午夜的妖精舞会	wydyjwh	1
+欲望深重的灵魂	ywszdlh	1
+死灵的夜樱	sldyy	1
+欢迎来到妖怪寺	hyldygs	1
+寺门前的妖怪小姑娘	smqdygxgn	1
+在美妙的墓地里住下吧	zmmdmdlzxb	1
+古老的元神	gldys	1
+梦殿大祀庙	mddsm	1
+大神神话传	dsshc	1
+小小欲望的星空	xxywdxk	1
+圣德传说	sdcs	1
+后院的妖怪参拜道	hydygcbd	1
+佐渡的二岩	zddey	1
+神社的新风	ssdxf	1
+幻想乡的二岩	hxxdey	1
+亡失的情感	wsdqg	1
+尘世不变的悲观主义	csbbdbgzy	1
+心绮楼囃子	xqlcz	1
+有人气的场所	yrqdcs	1
+无人气的场所	wrqdcs	1
+丑时三刻的村落	csskdcl	1
+本日的头版头条	brdtbtt	1
+官板黄昏新闻	gbhhxw	1
+不可思议的驱魔棒	bksydqmb	1
+秘境的人鱼	mjdry	1
+往来于运河的人与妖	wlyyhdryy	1
+柳树下的杜拉罕	lsxddlh	1
+满月的竹林	mydzl	1
+孤独的狼人	gddlr	1
+幻想净琉璃	hxjll	1
+沉向空中的辉针城	cxkzdhzc	1
+针小棒大的天守阁	zxbddtsg	1
+辉光之针的小人族	hgzzdxrz	1
+魔力的雷云	mldly	1
+原初的节拍	ycdjp	1
+小槌的魔力	xcdml	1
+非常非常神奇的道具们	fcfcsqddjm	1
+燃起犯规的狼烟	rqfgdly	1
+以犯规对不可能的弹幕	yfgdbknddm	1
+浪漫逃飞行	lmtfx	1
+永远的三日天下	yydsrtx	1
+震撼心灵的都市传说	zhxlddscs	1
+幻想乡不可思议发现	hxxbksyfx	1
+有珠子的日常	yzzdrc	1
+显现的传承形态	xxdccxt	1
+时代风潮的造访	sdfcdzf	1
+价值不明	jzbm	1
+相信可能性	xxknx	1
+知晓真相之人	zxzxzr	1
+外界民俗	wjms	1
+各自的结局	gzdjj	1
+被揭晓的深秘	bjxdsm	1
+灵异任你选	lyrnx	1
+七玉搜集大摊牌	qysjdtp	1
+公正的争夺	gzdzd	1
+对跖点之钟	dzdzz	1
+竹林大火	zldh	1
+华狭间的战场	hxjdzc	1
+现世的秘术师	xsdmss	1
+容貌错乱	rmcl	1
+宇宙巫女现身	yzwnxs	1
+忘不了	wbl	1
+那曾依藉的绿意	ncyjdly	1
+兔已着陆	tyzl	1
+湖上倒映着洁净的月光	hsdyzjjdyg	1
+九月的南瓜	jydng	1
+飞翔于宇宙的不可思议巫女	fxyyzdbksywn	1
+永远的春梦	yydcm	1
+冻结的永远之都	djdyyzd	1
+逆转的命运之轮	nzdmyzl	1
+遥遥三十八万公里的航程	yyssbwgldhc	1
+星条旗的小丑	xtqdxc	1
+故乡之星倒映之海	gxzxdyzh	1
+前所未见的噩梦世界	qswjdemsj	1
+从神社所见之月	csssjzy	1
+宇宙巫女归还	yzwngh	1
+樱花舞落的天空	yhwldtk	1
+希望之星直升青霄	xwzxzsqx	1
+仲夏的妖精梦	zxdyjm	1
+妖怪山间无色风	ygsjwsf	1
+深山的遭遇	ssdzy	1
+徜徉于樱色之海	cyyyszh	1
+成对的神兽	cddss	1
+幻想的白色旅人	hxdbslr	1
+魔法的笠地藏	mfdldz	1
+禁忌之门对侧	jjzmdc	1
+是此世还是彼世	scshsbs	1
+被秘匿的四个季节	bmndsgjj	1
+门再也进不去了	mzyjbql	1
+秘神摩多罗	msmdl	1
+不自然的自然	bzrdzr	1
+白色旅人	bslr	1
+圣辇船飞向天空	sncfxtk	1
+法力之下的平等	flzxdpd	1
+恒常不变的参庙祀	hcbbdcms	1
+光辉的天球仪	ghdtqy	1
+泽之河童的技术力	zzhtdjsl	1
+地底绽放的蔷薇	ddzfdqw	1
+在深绿的狸森里	zsldlsl	1
+不灭的赤魂	bmdch	1
+落日映照下的逆城	lryzxdnc	1
+克服万千之试炼	kfwqzsl	1
+永远延续的回廊	yyyxdhl	1
+到达有顶天	ddydt	1
+凭坐挟于梦境与现实之间	pzxymjyxszj	1
+今宵是飘逸的利己主义者	jxspydljzyz	1
+凭投依合	ptyh	1
+连带责人	ldzr	1
+合缘奇缘	hyqy	1
+异心同体	yxtt	1
+豪言壮语	hyzy	1
+智略纵横	zlzh	1
+意气洋洋	yqyy	1
+开演在即	kyzj	1
+行云流水	xyls	1
+异变的种子	ybdzz	1
+疑惑的萌芽	yhdmy	1
+含苞待放的凭依华	hbdfdpyh	1
+通往真相的枝叶	twzxdzy	1
+争奇斗艳的凭依华	zqdydpyh	1
+飞舞飘散的凭依华吹雪	fwpsdpyhcx	1
+噩梦日记	emrj	1
+沉默的兽灵	cmdsl	1
+只有地藏知晓的哀叹	zydzzxdat	1
+石之婴儿与水中牛	szyeyszn	1
+不朽的曼珠沙华	bxdmzsh	1
+幸运与不幸	xyybx	1
+陶瓷的杖刀人	tcdzdr	1
+寄世界于偶像	jsjyox	1
+闪耀的弱肉强食法则	sydrrqsfz	1
+圣德太子的天马	sdtzdtm	1
+畜生们的小憩	csmdxq	1
+从地下的归还	cdxdgh	1
+架起虹桥的幻想乡	jqhqdhxx	1
+妖异们的骤雨	yymdzy	1
+大吉猫咪	djmm	1
+深绿掩映的断崖	slyyddy	1
+驹草盛开的万年积雪	jcskdwnjx	1
+日渐荒废的工业遗址	rjhfdgyyz	1
+神代矿石	sdks	1
+渴盼已久的逢魔之刻	kpyjdfmzk	1
+天魔之山漫天星	tmzsmtx	1
+熙攘市场今何在	xrscjhz	1
+幻想地下大轨道网	hxdxdgdw	1
+灭杀龙王的公主	mslwdgz	1
+风暴过后的星期日	fbghdxqr	1
+虹色的世界	hsdsj	1
+被水淹没的沉愁地狱	bsymdccdy	1
+天理人欲	tlry	1
+大地之底	ddzd	1
+刚欲之海	gyzh	1
+贪欲之兽的记忆	tyzsdjy	1
+全有机体的记忆	qyjtdjy	1
+收藏家的忧郁午后	scjdyywh	1
+令人心跳的司空见惯幻想乡	lrxtdskjghxx	1
+妖怪上钩	ygsg	1
+黑市无处不在	hswcbz	1
+拿起弹幕吧	nqdmb	1
+第一百次黑市	dybchs	1
+兽之智慧	szzh	1
+世间万物皆可爱	sjwwjka	1
+魔兽紧急升空	msjjsk	1
+悠久山上鬼	yjssg	1
+勇敢又慵懒的妖兽	ygyyldys	1
+吸血怪兽卓柏卡布拉	xxgszbkbl	1
+不回首的黄泉路	bhsdhql	1
+越轨者们的无碍光	ygzmdwag	1
+兽王们的小憩	swmdxq	1
+野兽有智慧吗	ysyzhm	1
+锦上巫女	jswn	1
+所爱所怜的凡尘居所	sasldfcjs	1
+即便为世间所遗忘	jbwsjsyw	1
+森林里面有鬼怪哦	sllmyggo	1
+祭司王约翰的黄金境	jswyhdhjj	1
+事已至此就赌上性命来猜谜吧	syzcjdsxmlcmb	1
+猎鹿旧忆回潮	lljyhc	1
+沉入记忆深海的少女	crjyshdsn	1
+金字塔的神域	jztdsy	1
+早已习惯最终孑然一身	zyxgzzjrys	1
+双壳贝上的幻觉	skbsdhj	1
+不变的日常	bbdrc	1
+所爱所怜的日常	sasldrc	1
+迈向生死更迭的世界	mxssgddsj	1
+宵暗的魔术师	xadmss	1
+梦幻回廊	mhhl	1
+蓬莱传说	plcs	1
+人偶森林	rosl	1
+空中飞翔的巫女不可思议的每天	kzfxdwnbksydmt	1
+走在夜晚的莲台野	zzywdlty	1
+少女秘封俱乐部	snmfjlb	1
+古老的冥界寺	gldmjs	1
+魔术师梅莉	mssml	1
+月之妖鸟	yzyn	1
+化猫之幻	hmzh	1
+过去的花	gqdh	1
+幻想的永远祭	hxdyyj	1
+华胥之梦	hxzm	1
+科学世纪的少年少女	kxsjdsnsn	1
+梦境与现实的境界	mjyxsdjj	1
+广重三十六号	gzsslh	1
+五十三分钟的蓝色大海	wssfzdlsdh	1
+青木原的传说	qmydcs	1
+最澄澈的空与海	zccdkyh	1
+欢迎来到月面旅行团	hyldymlxt	1
+天空的格林尼治	tkdglnz	1
+轮椅上的未来宇宙	lysdwlyz	1
+卫星露天咖啡座	wxltkfz	1
+另一侧的月	lycdy	1
+未知之花	wzzh	1
+魅知之旅	mzzl	1
+卫星鸟船	wxnc	1
+特洛伊群的密林	tlyqdml	1
+天鸟船神社	tncss	1
+天鸟船神社的结界	tncssdjj	1
+漂浮于宇宙之中的幻想乡	pfyyzzzdhxx	1
+绿意盎然的疗养院	lyardlyy	1
+被牛引到善光寺	bnydsgs	1
+阿加尔塔之风	ajetzf	1
+收集日本各地的不可思议	sjrbgddbksy	1
+二人不值一提的博物志	erbzytdbwz	1
+令人不眠之瞳	lrbmzt	1
+比普朗克更短的须臾	bplkgddxy	1
+薛定谔的怪猫	xdedgm	1
+禁忌的膜壁	jjdmb	1
+燕石博物志所带来的黑暗	ysbwzsdldha	1
+旧世界的冒险酒馆	jsjdmxjg	1
+宿醉者的同床异梦	szzdtcym	1
+七石之狼	qszl	1
+登天吞云	dtty	1
+日出七夕坂	rcqxb	1
+不等式的廷克	bdsdtk	1
+不等式的廷克·贝尔	bdsdtk	1
+梦幻能	mhn	1
+独自一人的常陆行路	dzyrdclxl	1
+毕竟不单夜晚有鬼怪	bjbdywygg	1
+梦想封印	mxfy	1
+封魔阵	fmz	1
+极限火花	jxhh	1
+完美冻结	wmdj	1
+钻石风暴	zsfb	1
+芳华绚烂	fhxl	1
+彩虹风铃	chfl	1
+华想梦葛	hxmg	1
+彩光乱舞	cglw	1
+极彩台风	jctf	1
+火神之光	hszg	1
+三石塔	sst	1
+慵懒三石塔	ylsst	1
+三石塔的震动	sstdzd	1
+熔岩环石阵	ryhsz	1
+环状熔岩带	hzryd	1
+水银之毒	syzd	1
+森林大火	sldh	1
+水精公主	sjgz	1
+风灵的角笛	fldjd	1
+风灵角笛	fljd	1
+绿色风暴	lsfb	1
+水精灵	sjl	1
+火神的光辉	hsdgh	1
+翡翠巨石	fcjs	1
+金属疲劳	jspl	1
+幻惑误导	hhwd	1
+幻惑诱导	hhyd	1
+迷幻的杰克	mhdjk	1
+迷幻杰克	mhjk	1
+杀人玩偶	srwo	1
+杀人木偶	srmo	1
+永恒的温柔	yhdwr	1
+千根针的针山	qgzdzs	1
+吸血鬼幻想	xxghx	1
+绯红之主	fhzz	1
+红色的幻想乡	hsdhxx	1
+沉静的月神	cjdys	1
+皇家烈焰	hjly	1
+莱瓦汀	lwt	1
+四重存在	szcz	1
+笼中鸟	lzn	1
+星虹破碎	xhps	1
+折反射	zfs	1
+恋之迷宫	lzmg	1
+之后就一个人都没有了吗	zhjygrdmylm	1
+二重结界	ecjj	1
+冰霜方阵	bsfz	1
+冰袭方阵	bxfz	1
+延长的冬日	ycddr	1
+桌灵转	zlz	1
+凤凰卵	fhl	1
+凤凰展翅	fhzc	1
+晴明大纹	qmdw	1
+护法天童乱舞	hfttlw	1
+奇门遁甲	qmdj	1
+少女文乐	snwl	1
+蓬莱人偶	plro	1
+大合葬	dhz	1
+饿鬼剑	egj	1
+饿王剑	ewj	1
+饿鬼十王	egsw	1
+业风神闪斩	yfssz	1
+修罗剑	xlj	1
+人神剑	rsj	1
+天神剑	tsj	1
+三魂七魄	shqp	1
+一念无量劫	ynwlj	1
+生者必灭之理	szbmzl	1
+生者必灭	szbm	1
+蝶妄想	dwx	1
+埋骨于弘川	mgyhc	1
+完全墨染的樱花	wqmrdyh	1
+墨染樱	mry	1
+反魂蝶	fhd	1
+青鬼赤鬼	qgcg	1
+十二神将	sesj	1
+四面楚歌	smcg	1
+天狐公主	thgz	1
+狐狗狸	hgl	1
+二重黑死蝶	echsd	1
+黑死蝶	hsd	1
+弹幕结界	dmjj	1
+梦想妙珠	mxmz	1
+八方鬼缚阵	bfgfz	1
+究极火花	jjhh	1
+小行星带	xxxd	1
+未来永劫斩	wlyjz	1
+回归虚无	hgxw	1
+冈格尼尔	ggne	1
+华胥的永眠	hxdym	1
+户隐山之投	hyszt	1
+户隐山	hys	1
+百万鬼夜行	bwgyx	1
+萤光现象	ygxx	1
+夜虫龙卷	yclj	1
+永夜蛰居	yyzj	1
+木菟的咆哮	mtdpx	1
+木菟咆哮	mtpx	1
+祸延疾冲	hyjc	1
+三神器	ssq	1
+幻想乡传说	hxxcs	1
+高天原	gty	1
+八方龙杀阵	bflsz	1
+幻视调律	hsdl	1
+月兔远程催眠术	ytyccms	1
+壶中的天地	hzdtd	1
+天人的族谱	trdzp	1
+天文密葬法	twmzf	1
+蓬莱之药	plzy	1
+蓬莱药	ply	1
+壶中的大银河	hzddyh	1
+耀眼的龙玉	yydly	1
+佛体的金刚石	ftdjgs	1
+火蜥蜴	hxy	1
+火鼠的皮衣	hsdpy	1
+燕的子安贝	ydzab	1
+无限的生命之泉	wxdsmzq	1
+爆菊泉	bjq	1
+蓬莱的玉枝	pldyz	1
+永夜返	yyf	1
+正直者之死	zzzzs	1
+正直者	zzz	1
+徐福时空	xfsk	1
+月岩笠的诅咒	yyldzz	1
+凤翼天翔	fytx	1
+不合时令的蝶雨	bhslddy	1
+日出国之天子	rcgztz	1
+天网蛛网捕蝶之法	twzwbdzf	1
+蓬莱的树海	pldsh	1
+不死鸟重生	bsncs	1
+无何有的净化	whydjh	1
+梦想天生	mxts	1
+收缩的世界	ssdsj	1
+待宵反射卫星斩	dxfswxz	1
+绯红的命运	fhdmy	1
+绯红命运	fhmy	1
+西行寺无余涅槃	xxswynp	1
+深弹幕结界	sdmjj	1
+花鸟风月	hnfy	1
+谷物神	gws	1
+厄神大人的生理节律	esdrdsljl	1
+大钟婆之火	dzpzh	1
+大钟婆	dzp	1
+流放人偶	lfro	1
+流刑人偶	lxro	1
+光学迷彩	gxmc	1
+大瀑布	dpb	1
+延展手臂	yzsb	1
+回转顶板	hzdb	1
+猿田彦神	ytys	1
+风神木叶隐身术	fsmyyss	1
+天狗颪	tgg	1
+二百十日	ebsr	1
+二百十	ebs	1
+幻想风靡	hxfm	1
+无双风神	wsfs	1
+天上天下的照国	tstxdzg	1
+一脉单传之弹幕	ymdczdm	1
+一脉单传	ymdc	1
+建御名方神	jymfs	1
+八坂之神风	bbzsf	1
+御射山御狩神事	yssysss	1
+御射山	yss	1
+葛井清水	gjqs	1
+大和环面	dhhm	1
+信仰之山	xyzs	1
+风神之神德	fszsd	1
+二拜二拍一拜	ebepyb	1
+手长足长	sczz	1
+洩矢的铁轮	xsdtl	1
+厌川的翡翠	ycdfc	1
+七石七木	qsqm	1
+小小青蛙不输风雨	xxqwbsfy	1
+诹访大战	zfdz	1
+全人类的绯想天	qrldfxt	1
+钓瓶落	dpl	1
+钓落瓶	dlp	1
+开花爷爷	khyy	1
+剪舌麻雀	jsmq	1
+舌切雀	sqq	1
+丑时参拜	cscb	1
+怪力乱神	glls	1
+罪人不释之枷	zrbszj	1
+大江山岚	djsl	1
+大江山颪	djsg	1
+三步必杀	sbbs	1
+恐怖催眠术	kbcms	1
+飞行虫之巢	fxczc	1
+飞行虫	fxc	1
+蒙蒙迷雾	mmmw	1
+鸟居旋风	njxf	1
+怨灵猫乱步	ylmlb	1
+怨灵凭依妖精	ylpyyj	1
+食人怨灵	sryl	1
+旧地狱的针山	jdydzs	1
+死灰复燃	shfr	1
+小恶灵复活	xelfh	1
+火焰的车轮	hydcl	1
+千兆耀斑	qzyb	1
+十凶星	sxx	1
+地狱极乐熔毁	dyjlrh	1
+托卡马克	tkmk	1
+地底太阳	ddty	1
+神秘果	smg	1
+弹幕偏执症	dmpzz	1
+妖怪测谎机	ygchj	1
+弹幕的墨迹测验	dmdmjcy	1
+被厌恶者的哲学	bywzdzx	1
+地底蔷薇	ddqw	1
+神代大蛇	sdds	1
+超防水干爽伞妖	cfsgssy	1
+超防水	cfs	1
+帝王海妖来袭	dwhylx	1
+天上天下连续勾拳	tstxlxgq	1
+空前绝后巨眼焚身	kqjhjyfs	1
+悄然袭来的长勺	qrxldzs	1
+无上财宝	wscb	1
+正义之威光	zyzwg	1
+无瑕佛法之独钴杵	wxffzdgc	1
+转转棒	zzb	1
+完全净化	wqjh	1
+极乐的紫色云路	jldzsyl	1
+魔法蝶	mfd	1
+魔法银河系	mfyhx	1
+香蕉船	xjc	1
+魔神复诵	msfs	1
+正体不明	ztbm	1
+平安京的恶梦	pajdem	1
+源三位赖政之弓	yswlzzg	1
+金阁寺	jgs	1
+寒冰熔解器	hbrjq	1
+金红石折射	jhszs	1
+阳光冲击波	ygcjb	1
+星星点点	xxdd	1
+苍穹中的精灵	cqzdjl	1
+猎户座腰带	lhzyd	1
+花开无声	hkws	1
+满月之夜	myzy	1
+寂静之月	jjzy	1
+开放宇宙	kfyz	1
+大坍缩	dts	1
+超级英仙座	cjyxz	1
+妖精尽灭光	yjjmg	1
+常夜樱	cyy	1
+西行樱吹雪	xxycx	1
+樱吹雪	ycx	1
+樱吹雪地狱	ycxdy	1
+孤魂野鬼	ghyg	1
+走火入魔	zhrm	1
+通灵芳香	tlfx	1
+道胎动	dtd	1
+元兴寺的龙卷	yxsdlj	1
+元兴寺	yxs	1
+雨之磐舟	yzpz	1
+火烧樱井寺	hsyjs	1
+樱井寺	yjs	1
+大物忌正餐	dwjzc	1
+圣童女	stn	1
+十二阶之冠位	sejzgw	1
+十二阶	sej	1
+日出之处的天子	rczcdtz	1
+豪族乱舞	hzlw	1
+斑鸠寺的天球仪	bjsdtqy	1
+斑鸠寺	bjs	1
+天球仪	tqy	1
+救世之光	jszg	1
+十七条	sqt	1
+无忤为宗	wwwz	1
+星辰降落	xcjl	1
+新生的神灵	xsdsl	1
+鸟兽戏画	nsxh	1
+野生离岛	ysld	1
+逆鳞的惊涛	nldjt	1
+星形齿	xxc	1
+满月的远吠	mydyf	1
+祇园精舍的钟声	qyjsdzs	1
+无耳芳一	wefy	1
+平家的大怨灵	pjddyl	1
+诸行无常的琴声	zxwcdqs	1
+诸行无常	zxwc	1
+回音之庭	hyzt	1
+下克上安魂曲	xksahq	1
+下克上送筝曲	xksszq	1
+下克上	xks	1
+逆针击	nzj	1
+天地有用	tdyy	1
+天壤梦弓	trmg	1
+天下翻覆	txff	1
+镜中的邪恶	jzdxe	1
+变革空勇士	bgkys	1
+辉针剑	hzj	1
+进击的小人	jjdxr	1
+七个一寸法师	qgycfs	1
+一寸法师	ycfs	1
+雷电拨浪鼓	ldblg	1
+雷神之怒	lszn	1
+原始的节拍	ysdjp	1
+十七条宪法炸弹	sqtxfzd	1
+梵天之瞳	ftzt	1
+运钝根的捕物帐	ydgdbwz	1
+运钝根	ydg	1
+浆果浆果团子	jgjgtz	1
+团子影响力	tzyxl	1
+月见酒	yjj	1
+刈安色的迷梦	yasdmm	1
+刈安色	yas	1
+梦我梦中	mwmz	1
+孤翼的白鹭	gydbl	1
+片翼的白鹭	pydbl	1
+地狱之蚀	dyzs	1
+闪光与条纹	sgytw	1
+星与条纹	xytw	1
+地狱火	dyh	1
+条纹状的深渊	twzdsy	1
+阿波罗捏造说	ablnzs	1
+神灵界	slj	1
+纯粹的弹幕地狱	ccddmdy	1
+逢魔之刻	fmzk	1
+邪秽在身	xhzs	1
+用于杀人的纯粹弹幕	yysrdccdm	1
+即席菩提	jxpt	1
+巨大弹	jdd	1
+七夕星节	qxxj	1
+七夕星祭	qxxj	1
+风吹樱花	fcyh	1
+吹拂樱花	cfyh	1
+完美夏冰	wmxb	1
+疯狂秋风	fkqf	1
+极端寒冬	jdhd	1
+饿鬼围城	egwc	1
+分水试练	fssl	1
+瞭望试练	lwsl	1
+龟甲地狱	gjdy	1
+鬼畜生	gcs	1
+龙纹弹	lwd	1
+鬼形造形术	gxzxs	1
+鬼形的乌合之众	gxdwhzz	1
+最深的森域	zsdsy	1
+云间草	yjc	1
+惊愕的云间草	jedyjc	1
+薄雪草	bxc	1
+阴阳神玉	yysy	1
+女王珠	nwz	1
+阴阳窒息	yyzx	1
+星火燎原	xhly	1
+虹彩陆离	hcll	1
+天马行空	tmxk	1
+光风霁月	gfjy	1
+无主供物	wzgw	1
+收集狂	sjk	1
+弹幕市场	dmsc	1
+弹幕自由市场	dmzysc	1
+自由市场	zysc	1
+虹人环	hrh	1
+弹幕领土	dmlt	1
+无道的弹幕领土	wdddmlt	1
+弹幕的庇护所	dmdbhs	1
+矿山爆破	ksbp	1
+噬蛇者	ssz	1
+噬龙者	slz	1
+纯灵弹	cld	1
+无心纯灵弹	wxcld	1
+亡羊的王国	wydwg	1
+宇宙尘	yzc	1
+唐柜翻转	tgfz	1
+弹幕金字塔	dmjzt	1
+碎片大数据	spdsj	1
+潮盈珠	cyz	1
+潮干珠	cgz	1
+永远之冬	yyzd	1
+恒久之冬	hjzd	1
+混沌之冬	hdzd	1
+弹幕的化石	dmdhs	1
+幻想的遗骸	hxdyh	1
+锦上的虚像	jsdxx	1
+锦之上的虚像	jzsdxx	1
+石之女神	szns	1
+不生不灭的石之女神	bsbmdszns	1
+不生不灭	bsbm	1
+最大得点	zddd	1
+完美无缺	wmwq	1
+异变石	ybs	1
+异变敌	ybd	1
+人妖槽	ryc	1
+信号槽	xhc	1
+信仰槽	xyc	1
+收点线	sdx	1
+狼咆哮	lpx	1
+獭咆哮	tpx	1
+鹰咆哮	ypx	1
+苦无弹	kwd	1
+杆菌弹	gjd	1
+小星弹	xxd	1
+大星弹	dxd	1
+水光弹	sgd	1
+音符弹	yfd	1
+休止符弹	xzfd	1
+小阴阳玉	xyyy	1
+大阴阳玉	dyyy	1
+阴阳玉	yyy	1
+曲线激光	qxjg	1
+预警线	yjx	1
+生成杀	scs	1
+低速封印	dsfy	1
+高速封印	gsfy	1
+死尸弹	ssd	1
+击破撞	jpz	1
+判定点	pdd	1
+随机弹	sjd	1
+自机狙	zjj	1
+交叉弹	jcd	1
+爆菊弹	bjd	1
+护身弹	hsd	1
+反击弹	fjd	1
+奇数狙	jsj	1
+偶数狙	osj	1
+奇数弹	jsd	1
+偶数弹	osd	1
+处理落	cll	1
+安定点	add	1
+安定线	adx	1
+季节解放	jjjf	1
+道中非	dzf	1
+道中符	dzf	1
+不死鸟	bsn	1
+上海人偶	shro	1
+背后之门	bhzm	1
+太古的勾玉	tgdgy	1
+太古勾玉	tggy	1
+守财奴	scn	1
+死秽回避之药	shhbzy	1
+不死药	bsy	1
+弱肉强食之理	rrqszl	1
+法力经典	fljd	1
+弟子狸	dzl	1
+有钱能使鬼推磨	yqnsgtm	1
+鬼推磨	gtm	1
+肉体强化地藏	rtqhdz	1
+龙之烟管	lzyg	1
+画面的界线	hmdjx	1
+万宝槌	wbc	1
+吸血鬼之牙	xxgzy	1
+地底的太阳	dddty	1
+大天狗的麦饭	dtgdmf	1
+天蓝色的勾玉	tlsdgy	1
+绯红恶魔	fhem	1
+生物赤红	swch	1
+冰雪花簇	bxhc	1
+蓝色季节	lsjj	1
+黄色地心	hsdx	1
+不朽明月	bxmy	1
+兽之冷硬	szly	1
+神道之风	sdzf	1
+一开幕	ykm	1
+二开幕	ekm	1
+三开幕	skm	1
+四开幕	skm	1
+五开幕	wkm	1
+六开幕	lkm	1
+一闭幕	ybm	1
+二闭幕	ebm	1
+三闭幕	sbm	1
+四闭幕	sbm	1
+五闭幕	wbm	1
+六闭幕	lbm	1
+六开幕死路一条	lkmslyt	1
+魔法书	mfs	1
+铁球阵	tqz	1
+三吴克	swk	1
+七吴克	qwk	1
+太田飞行阵	ttfxz	1
+飞行阵	fxz	1
+黄绿蓝	hll	1
+激光阵	jgz	1
+黄豆阵	hdz	1
+绿豆阵	ldz	1
+黄风神	hfs	1
+蓝风神	lfs	1
+封兽球	fsq	1
+宝天京	btj	1
+鬼葬剑	gzj	1
+梦旧市	mjs	1
+催狐谈	cht	1
+祈华梦	qhm	1
+栖霞园	qxy	1
+眠世界	msj	1
+远空界	ykj	1
+资质疏	zzs	1
+真珠岛	zzd	1
+魔宝城	mbc	1
+桃源宫	tyg	1
+白尘记	bcj	1
+导命树	dms	1
+邪星章	xxz	1
+伪神灵庙	wslm	1
+逆妙乱	nml	1
+夏夜祭	xyj	1
+雪莲华	xlh	1
+幕华祭	mhj	1
+门殊钱	msq	1
+天华楼	thl	1
+幻想杀	hxs	1
+幻梦笺	hmj	1
+龙隐谈	lyt	1
+觉醒珠	jxz	1
+潮圣书	css	1
+实在相	szx	1
+光条阁	gtg	1
+魔晶精	mjj	1
+水晶宫	sjg	1
+海惠堂	hht	1
+梦终剧	mzj	1
+时封城	sfc	1
+落流星	llx	1
+稀钱群	xqq	1
+花逐夜	hzy	1
+百花宴	bhy	1
+求霖忍	qlr	1
+妖精乡	yjx	1
+恋觉想	ljx	1
+泡台风	ptf	1
+光像仪	gxy	1
+宵海格	xhg	1
+花蝴蝶	hhd	1
+梦无垠	mwy	1
+圣战影	szy	1
+云源历	yyl	1
+时裂空	slk	1
+命雨滴	myd	1
+灵守寺	lss	1
+雨仰石	yys	1
+东方宝天京	dfbtj	1
+东方鬼葬剑	dfgzj	1
+东方梦旧市	dfmjs	1
+东方催狐谈	dfcht	1
+东方祈华梦	dfqhm	1
+东方栖霞园	dfqxy	1
+东方眠世界	dfmsj	1
+东方远空界	dfykj	1
+东方资质疏	dfzzs	1
+东方真珠岛	dfzzd	1
+东方魔宝城	dfmbc	1
+东方桃源宫	dftyg	1
+东方白尘记	dfbcj	1
+东方导命树	dfdms	1
+东方邪星章	dfxxz	1
+东方伪神灵庙	dfwslm	1
+东方逆妙乱	dfnml	1
+东方夏夜祭	dfxyj	1
+东方雪莲华	dfxlh	1
+东方幕华祭	dfmhj	1
+东方门殊钱	dfmsq	1
+东方天华楼	dfthl	1
+东方幻想杀	dfhxs	1
+东方幻梦笺	dfhmj	1
+东方龙隐谈	dflyt	1
+东方觉醒珠	dfjxz	1
+东方潮圣书	dfcss	1
+东方实在相	dfszx	1
+东方光条阁	dfgtg	1
+东方魔晶精	dfmjj	1
+东方水晶宫	dfsjg	1
+东方海惠堂	dfhht	1
+东方梦终剧	dfmzj	1
+东方时封城	dfsfc	1
+东方落流星	dfllx	1
+东方稀钱群	dfxqq	1
+东方花逐夜	dfhzy	1
+东方百花宴	dfbhy	1
+东方求霖忍	dfqlr	1
+东方妖精乡	dfyjx	1
+东方恋觉想	dfljx	1
+东方泡台风	dfptf	1
+东方光像仪	dfgxy	1
+东方宵海格	dfxhg	1
+东方花蝴蝶	dfhhd	1
+东方希莲船	dfxlc	1
+东方梦无垠	dfmwy	1
+东方圣战影	dfszy	1
+东方云源历	dfyyl	1
+东方时裂空	dfslk	1
+东方命雨滴	dfmyd	1
+东方灵守寺	dflss	1
+东方雨仰石	dfyys	1
+弹幕异夜剧	dmyyj	1
+幻想浪漫纪行	hxlmjx	1
+铃集无名之丘	ljwmzq	1
+连缘无现里	lywxl	1
+连缘蛇丛剑	lyscj	1
+连缘灵烈传	lyllc	1
+连缘天影战记	lytyzj	1
+无现里	wxl	1
+蛇丛剑	scj	1
+灵烈传	llc	1
+天影战记	tyzj	1
+雪晶石	xjs	1
+幡紫龙	fzl	1
+秋霜玉	qsy	1
+稀翁玉	xwy	1
+西方幡紫龙	xffzl	1
+西方秋霜玉	xfqsy	1
+西方稀翁玉	xfxwy	1
+黄昏酒场	hhjc	1
+红月篇	hyp	1
+春雪篇	cxp	1
+永夜篇	yyp	1
+卧天则闪	wtzs	1
+芙蕾雅	fly	1
+时焉侑	syy	1
+博丽梦入	blmr	1
+九鬼梦沙罗	jgmsl	1
+雾雨顺子	wysz	1
+不知火米兰	bzhml	1
+角旗天一	jqty	1
+荣术丸樱	rswy	1
+阿尔特米娜	aetmn	1
+阿尔特米娜·露妮	aetmn	1
+可莱娜	kln	1
+古拉托尼	gltn	1
+可莱娜·古拉托尼	kln	1
+莱卡洛普娅	lklpy	1
+莱卡洛普娅·赫恩	lklpy	1
+莉莉布莱克	llblk	1
+玛格丽特	mglt	1
+玛格丽特·勒夏	mglt	1
+索妮亚	sny	1
+索妮亚·冯·奥尔斯佩	sny	1
+伊莉菲亚	ylfy	1
+伊莉菲亚·玛修	ylfy	1
+神宫寺祈	sgsq	1
+神无月绘光	swyhg	1
+虚城妃奏华	xcfzh	1
+岩渊永	yyy	1
+樱华院静	yhyj	1
+岸燐火	alh	1
+北条云雨	btyy	1
+大山唯	dsw	1
+天宫清雨	tgqy	1
+燕羽玄兆	yyxz	1
+天原那美	tynm	1
+古灵灵	gll	1
+魅明魔影	mmmy	1
+梦璃夜天星	mlytx	1
+桃雨洛熙	tylx	1
+桃雨洛薰	tylx	1
+雾隐梨花	wylh	1
+夏青柳	xql	1
+夜雨刃	yyr	1
+暗华美夜香	ahmyx	1
+莉帕斯	lps	1
+莉帕斯·缇米蒂丝·白雪	lps	1
+缇米蒂丝	tmds	1
+妙严宫雪华	mygxh	1
+墨樱初月	mycy	1
+蚀神星罗	ssxl	1
+荼靡结音	tmjy	1
+万光绘照	wghz	1
+晶耀泛纱	jyfs	1
+克拉丽贝尔	kllbe	1
+路易莎	lys	1
+克拉丽贝尔·路易莎	kllbe	1
+雾凛凉纪	wllj	1
+爱赫娜特恩	ahnte	1
+爱赫娜特恩·凝心	ahnte	1
+梦行远游	mxyy	1
+明隐玄思	myxs	1
+神欲知现空	syzxk	1
+鞍马乐	aml	1
+比卖藤雷	bmtl	1
+宾卡瓦兹	bkwz	1
+门冬羽日	mdyr	1
+萱野美华	xymh	1
+忆尘皆故	ycjg	1
+雨品龙暗座	yplaz	1
+雨品龙高戒	yplgj	1
+正鹿山得敏	zlsdm	1
+左城宫则纱	zcgzs	1
+海重乃汐	hznx	1
+黄媛祸	hyh	1
+江西䌷	jxc	1
+七宝万华	qbwh	1
+奇李蝶蚕	qldc	1
+阿尔卡罗伊德	aeklyd	1
+奇李蝶蚕·阿尔卡罗伊德	qldc	1
+王贵人也	wgry	1
+心凹守	xas	1
+新帝梅	xdm	1
+心天卦	xtg	1
+心天音	xty	1
+夜宝皇京	ybhj	1
+阿祖尔	aze	1
+斯沃尔	swe	1
+阿祖尔·斯沃尔	aze	1
+八百目实	bbms	1
+八衢明伎	bqmj	1
+绊锣币顷	blbq	1
+钵特摩	btm	1
+罗刹娑	lcs	1
+钵特摩·罗刹娑	btm	1
+风岚梅姬	flmj	1
+金吉利利	jjll	1
+水混祐毋	shyw	1
+王邪魅	wxm	1
+眩萨迦	xsj	1
+翼彩波	ycb	1
+三珠钿目	szdm	1
+三珠申田	szst	1
+宇贺神稻狐	yhsdh	1
+纣真藻	zzz	1
+锷木幸子	emxz	1
+飞仓百百	fcbb	1
+荒神药子	hsyz	1
+祸原命庙	hymm	1
+萨菈卡	slk	1
+桑坦捷	stj	1
+萨菈卡·桑坦捷	slk	1
+祟德院天梦	sdytm	1
+远音莉可	yylk	1
+八重咲杏	bzxx	1
+河城见取	hcjq	1
+不破见舞子	bpjwz	1
+八方步	bfb	1
+加尔穆	jem	1
+芦川真鱼	lczy	1
+尼勒丝	nls	1
+艾斯莱特	aslt	1
+尼勒丝·艾斯莱特	nls	1
+水无月	swy	1
+水无月·四目·拉维亚塔	swy	1
+十二外干支	sewgz	1
+小金井无夜	xjjwy	1
+鹰海婴命	yhym	1
+白金延寿	bjys	1
+光平向日葵	gpxrk	1
+泉野偲	qyc	1
+十字原朱器	szyzq	1
+水绳城万龟	sscwg	1
+苇名镜海	wmjh	1
+御剑缝重子	yjfzz	1
+竹桥目土	zqmt	1
+八苏神秋雨	bssqy	1
+兜冢守桔梗	dzsjg	1
+马駈场赤兔	mqcct	1
+丝诺柯狄亚	snkdy	1
+饕喰乐魔喰乐	tclmcl	1
+卧龙圆龙梦	wlylm	1
+一太刀镰	ytdl	1
+一太刀鼬	ytdy	1
+在原雅子	zyyz	1
+大黑二六二	dhele	1
+七头疵露子	qtclz	1
+锡器燃	xqr	1
+八百比海琴	bbbhq	1
+八百比恵	bbbh	1
+观福宫乙姬	gfgyj	1
+深堂香澄	stxc	1
+水无月燕	swyy	1
+涡岛鸣子	wdmz	1
+须佐乃森木叶	xznsmy	1
+雨津海遥	yjhy	1
+海津岛	hjd	1
+海铃莉	hll	1
+海色叶	hsy	1
+海水面	hsm	1
+海尾张	hwz	1
+刺田严姬	ctyj	1
+大伴家珠叶	dbjzy	1
+平贺生然	phsr	1
+仙觉寺鞠子	xjsjz	1
+轩端目目	xdmm	1
+藏人未见	zrwj	1
+几缟雪娘	jgxn	1
+桐生伊利斯	tsyls	1
+瓦伦丁	wld	1
+饴之原望星	yzywx	1
+安妮卡	ank	1
+安妮卡·A·T·B·冯·霍恩海姆	ank	1
+藤原文祢	tywm	1
+天青坊知雨姬	tqfzyj	1
+暗水早	asz	1
+火月小百合	hyxbh	1
+见神铃鹿	jsll	1
+僧正子	szz	1
+星蛇月子	xsyz	1
+黑冢赤实	hzcs	1
+孙月孛	syb	1
+文殊院善罪	wsysz	1
+右门金阁	ymjg	1
+左门银阁	zmyg	1
+艾吉永	ajy	1
+吉芙坦泽尔	jftze	1
+艾吉永·吉芙坦泽尔	ajy	1
+蓟根彩梦	jgcm	1
+旧遥翠川	jycc	1
+鹭森苍海	lsch	1
+明阳炎	myy	1
+鸣上光	msg	1
+绵月伍姬	mywj	1
+菲莉普斯	flps	1
+远堂丰海	ytfh	1
+阿普尔	ape	1
+格林顿	gld	1
+阿普尔·格林顿	ape	1
+洪水努亚	hsny	1
+蕾瓦伦斯	lwls	1
+利萨基	lsj	1
+范海德	fhd	1
+平家蟹塞勒涅	pjxsln	1
+一华优朋	yhyp	1
+伊邪云艾蕾娜	yxyaln	1
+干草光线	gcgx	1
+米莱莉姆	mllm	1
+斯兹美	szm	1
+法布丽蒂丝	fblds	1
+米珊朵拉	msdl	1
+明津祢津	mjmj	1
+望月一曜	wyyy	1
+谢莉亚	xly	1
+莱拉克	llk	1
+谢莉亚·莱拉克	xly	1
+伊芙妮娅	yfny	1
+真田千子	ztqz	1
+鹰藤鸢子	ytyz	1
+尼克斯	nks	1
+艾科托塔	aktt	1
+灯笼坂爱美	dlbam	1
+卡特琳娜	ktln	1
+卡特琳娜·铃	ktln	1
+青草实夕	qcsx	1
+天白鹭剪世树	tbljss	1
+雪村布返	xcbf	1
+夜花铁子	yhtz	1
+艾普洛	apl	1
+拉格拉姆	lglm	1
+艾普洛·拉格拉姆	apl	1
+丛影奥菲拉	cyafl	1
+勘解由小路瑞浦	kjyxlrp	1
+莳野梦乃原	symny	1
+枢纱依	ssy	1
+乐冢魇音	lzyy	1
+稚彩千绘歌	zcqhg	1
+安倍氏清姬	absqj	1
+八俣夜刀	byyd	1
+曲辻初名	qscm	1
+水天宫皇女	stghn	1
+武内垂神	wncs	1
+邪马台与桃姬	xmtytj	1
+野见埴得	yjzd	1
+无名的拉莱耶妖精	wmdllyyj	1
+长光切	zgq	1
+船魄彷兰	cppl	1
+泷夜叉髑髅	lycdl	1
+阿库娅珀莉	akypl	1
+平景清眼	pjqy	1
+天岐宫德子	tqgdz	1
+天岐宫显子	tqgxz	1
+六地藏千鹤	ldzqh	1
+龙灯神火	ldsh	1
+绵摘灵妃	mzlf	1
+绵摘鱼李	mzyl	1
+瀑布河早濑	pbhzl	1
+边川丰水	bcfs	1
+鳄鸟海美容	enhmr	1
+蕾切尔	lqe	1
+米开朗基罗	mkljl	1
+蕾切尔·米开朗基罗	lqe	1
+罗兹洛兹	lzlz	1
+艾尔芬敏特	aefmt	1
+夏利特	xlt	1
+玛莉雪佛德	mlxfd	1
+皮雅希缇	pyxt	1
+帕斯卡尔	pske	1
+皮雅希缇·帕斯卡尔	pyxt	1
+瓮星无无梦	wxwwm	1
+伊书亚	ysy	1
+拿撒勒努斯	nslns	1
+伊书亚·拿撒勒努斯	ysy	1
+珍妮特	znt	1
+奥康捷	akj	1
+珍妮特·奥康捷	znt	1
+米歇尔	mxe	1
+米歇尔·桑坦捷	mxe	1
+白波瑞池	bbrc	1
+雨满河	ymh	1
+白袴幺	bky	1
+德雀坊紫鸾	dqfzl	1
+绯神乱乱	fsll	1
+鸟澄珠乌	nczw	1
+青鹭光子	qlgz	1
+赛特大将	stdj	1
+藤壶无名异	thwmy	1
+檍原筑紫	yyzz	1
+茇萝涩德	blsd	1
+玛栉莉	mzl	1
+茇萝涩德·玛栉莉	blsd	1
+朵拉弩丝	dlns	1
+荷苗忧芽	hmyy	1
+莉葵忒	lkt	1
+忧芙翠丝	yfcs	1
+拉帕其尼	lpqn	1
+忧芙翠丝·拉帕其尼	yfcs	1
+直灵早璧	zlzb	1
+星期六上线	xqlsx	1
+雨天放晴	ytfq	1
+星苗火紫	xmhz	1
+雾雨威	wyw	1
+覭千缘	mqy	1
+二色幽紫蝶	esyzd	1
+东游鉴	dyj	1
+实况主本人	skzbr	1
+残机消失之夜	cjxszy	1
+伊吹小秋	ycxq	1
+幻想乡的新月	hxxdxy	1
+七份草莓圣代	qfcmsd	1
+星海天下	xhtx	1
+池田恒基	cthj	1
+矢川忍	scr	1
+太田顺也	ttsy	1
+砂砾籽	slz	1
+岁月之痕	syzh	1
