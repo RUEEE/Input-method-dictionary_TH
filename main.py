@@ -57,7 +57,7 @@ except ImportError:
 # ================= 配置区（按需修改） =================
 INPUT_CSV = "thd.csv"
 
-WEIGHT = 100
+WEIGHT = 1
 MIN_LEN = 3
 
 NAME_SEPARATOR = "·"
