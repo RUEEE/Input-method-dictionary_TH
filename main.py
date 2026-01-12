@@ -3,30 +3,13 @@
 """
 csv_to_rime_dict.py
 
-读取 input.csv（首行为标题；每列都是一类词条，允许空、跨行、重复），生成：
-1) output_full.txt         全拼（按列依次输出）
-2) output_simp.txt         简拼（首字母；长度 < MIN_LEN 不输出）
-3) output_all.txt          full + simp 合并
-4) output_ms.txt           与 output_all.txt 同内容，但权重全部为 1
-5) output_multiaccent.txt  多音字词条（仅用第一个读音输出，便于人工修正）
-                            + 含“无法完整解析成拼音且又不是英文”的词条（如日文等）
-6) output_nodup.txt        相当于 output_full.txt 的第一列（只输出词条本身）
-                            - 按列顺序
-                            - 去重
-                            - 人名带 `·` 按规则展开后也要纳入（点前/点后/整体）
-7) accent.txt              输出所有出现过的多音字“单字”及其全部读音（每字一行）
-                            且按“默认读音出现次数”降序排序（pypinyin 的最优先读音算出现）：
-                              重 chong zhong
+修复点：CUSTOM_WORD_PINYIN 命中时，不再对其 tokens 做“英文强制大写”处理。
+（也就是说：CUSTOM_WORD_PINYIN 给什么就用什么，完全原样。）
 
-
-
-优先级：
-1) CUSTOM_WORD_PINYIN（整词）
-2) CUSTOM_PINYIN（单字）
-3) pypinyin 默认逻辑
-
-依赖：
-  pip install pypinyin
+其余规则保持不变：
+- 英文段（源文本里出现的 ASCII 字母连续段）输出时统一转为全大写，例如 立flag -> li FLAG
+- 多音字单字统计输出到 accent.txt，并按“默认读音出现次数”降序排序读音
+- 支持人名中间点、数字转读音、去重、输出多个文件
 """
 
 from __future__ import annotations
@@ -36,7 +19,6 @@ import sys
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
-
 
 try:
     from pypinyin import lazy_pinyin, pinyin, Style
@@ -49,7 +31,7 @@ except ImportError:
 INPUT_CSV = "thd.csv"
 
 WEIGHT = 100
-MIN_LEN = 3
+MIN_LEN = 999
 
 NAME_SEPARATOR = "·"
 COL_SEP = "\t"
@@ -776,26 +758,22 @@ def tokens_from_custom_word_pinyin(source_text: str) -> list[str] | None:
     return [x for x in val.split() if x]
 
 
-# ---------- 生成 tokens，并支持“英文额外小写版” ----------
-def pinyin_tokens_for_text(source_text: str) -> tuple[list[str], bool, bool, bool]:
+# ---------- 生成 tokens（英文统一转大写，但不影响 CUSTOM_WORD_PINYIN） ----------
+def pinyin_tokens_for_text(source_text: str) -> tuple[list[str], bool, bool]:
     """
-    返回 (tokens, has_multiaccent, has_unparsed_non_english, need_lowercase_variant)
+    返回 (tokens, has_multiaccent, has_unparsed_non_english)
 
-    need_lowercase_variant：
-      - 当 tokens 中存在英文 token 且它不是全小写时为 True
-      - 用于额外生成一行把这些英文 token 变为全小写
+    优先级：
+    1) CUSTOM_WORD_PINYIN：命中则 tokens 完全原样使用，不做英文大写处理
+    2) 正常分段：汉/数/英/其他（英文字段强制转大写）
     """
-    # 1) 整词自定义拼音（最高优先级）
     custom = tokens_from_custom_word_pinyin(source_text)
     if custom is not None:
-        # 自定义整词：不做多音统计/不算 unparsed；是否需要小写变体取决于 tokens 中是否有大小写英文
-        need_lower = any(t.isalpha() and (t.lower() != t) for t in custom)
-        return custom, False, False, need_lower
+        return custom, False, False
 
     tokens: list[str] = []
     has_multiaccent = False
     has_unparsed_non_english = False
-    need_lowercase_variant = False
 
     for seg in segment_text(source_text):
         if seg.kind == "han":
@@ -814,32 +792,16 @@ def pinyin_tokens_for_text(source_text: str) -> tuple[list[str], bool, bool, boo
                 tokens.extend(num_lt_10000_to_pinyin(n))
 
         elif seg.kind == "eng":
-            tokens.append(seg.text)  # 英文段作为一个 token，按原样输出
-            if seg.text.lower() != seg.text:
-                need_lowercase_variant = True
+            tokens.append(seg.text.upper())  # 英文统一大写
 
         else:
             has_unparsed_non_english = True
 
-    return tokens, has_multiaccent, has_unparsed_non_english, need_lowercase_variant
-
-
-def apply_lowercase_variant(tokens: list[str]) -> list[str]:
-    """把 tokens 中的英文 token 变成全小写（非英文 token 不变）。"""
-    out = []
-    for t in tokens:
-        if t.isalpha():
-            out.append(t.lower())
-        else:
-            out.append(t)
-    return out
+    return tokens, has_multiaccent, has_unparsed_non_english
 
 
 # ---------- 人名中间点展开 ----------
 def expand_name_entries(word: str) -> list[tuple[str, str]]:
-    """
-    返回 [(display_text, source_text_for_code), ...]
-    """
     w = word.strip()
     if not w:
         return []
@@ -911,7 +873,6 @@ def main() -> int:
         return 1
 
     data_rows = rows[1:]  # 跳过标题
-
     max_cols = max((len(r) for r in data_rows), default=0)
 
     # 按列收集并列内去重
@@ -932,32 +893,31 @@ def main() -> int:
     nodup_words: list[str] = []
     nodup_seen: set[str] = set()
 
-    # 去重：避免重复行
     seen_full: set[tuple[str, str]] = set()
     seen_simp: set[tuple[str, str]] = set()
     seen_multi: set[tuple[str, str]] = set()
 
-    def emit_full(display_text: str, code_full: str, weight: int):
-        k = (display_text, code_full)
+    def emit_full(text: str, code_full: str, weight: int):
+        k = (text, code_full)
         if k not in seen_full:
             seen_full.add(k)
-            full_lines.append(format_rime_line(display_text, code_full, weight))
+            full_lines.append(format_rime_line(text, code_full, weight))
 
-    def emit_simp(display_text: str, code_simp: str, weight: int):
-        k = (display_text, code_simp)
+    def emit_simp(text: str, code_simp: str, weight: int):
+        k = (text, code_simp)
         if k not in seen_simp:
             seen_simp.add(k)
-            simp_lines.append(format_rime_line(display_text, code_simp, weight))
+            simp_lines.append(format_rime_line(text, code_simp, weight))
 
-    def emit_multi(display_text: str, code_full: str | None):
-        k = (display_text, code_full or "")
+    def emit_multi(text: str, code_full: str | None):
+        k = (text, code_full or "")
         if k in seen_multi:
             return
         seen_multi.add(k)
         if code_full:
-            multi_lines.append(format_rime_line(display_text, code_full, WEIGHT))
+            multi_lines.append(format_rime_line(text, code_full, WEIGHT))
         else:
-            multi_lines.append(f"{display_text}{COL_SEP}<<<UNPARSED>>>")
+            multi_lines.append(f"{text}{COL_SEP}<<<UNPARSED>>>")
 
     for col in cols:
         for raw_word in col:
@@ -970,9 +930,7 @@ def main() -> int:
                     nodup_words.append(display_text)
 
             for display_text, source_text in entries:
-                tokens, has_multi, has_unparsed, need_lower = pinyin_tokens_for_text(source_text)
-
-                # 生成默认版本
+                tokens, has_multi, has_unparsed = pinyin_tokens_for_text(source_text)
                 code_full = " ".join(tokens).strip()
                 code_simp = "".join(t[0] for t in tokens if t).strip()
 
@@ -980,22 +938,11 @@ def main() -> int:
                     emit_full(display_text, code_full, WEIGHT)
                 if code_simp and len(code_simp) >= MIN_LEN:
                     emit_simp(display_text, code_simp, WEIGHT)
+
                 if has_multi or has_unparsed:
                     emit_multi(display_text, code_full if code_full else None)
 
-                # 若需要英文小写变体：再额外输出一份（display_text 不变，仅 code 变体）
-                if need_lower:
-                    tokens_l = apply_lowercase_variant(tokens)
-                    code_full_l = " ".join(tokens_l).strip()
-                    code_simp_l = "".join(t[0] for t in tokens_l if t).strip()
-
-                    if code_full_l and code_full_l != code_full:
-                        emit_full(display_text, code_full_l, WEIGHT)
-                    if code_simp_l and len(code_simp_l) >= MIN_LEN and code_simp_l != code_simp:
-                        emit_simp(display_text, code_simp_l, WEIGHT)
-                    # multiaccent：小写变体不单独再加（避免噪声）
-
-    # 写文件
+    # 写 output_full/simp/all
     Path(OUT_FULL).write_text("\n".join(full_lines) + ("\n" if full_lines else ""), encoding="utf-8")
     Path(OUT_SIMP).write_text("\n".join(simp_lines) + ("\n" if simp_lines else ""), encoding="utf-8")
 
@@ -1005,7 +952,6 @@ def main() -> int:
     # output_ms：与 output_all 一致，但权重全部为 1
     ms_lines = []
     for line in all_lines:
-        # 统一把最后一列 weight 替换为 1；若没有 weight 列则追加（这里 WEIGHT>=0 一般都有）
         parts = line.split(COL_SEP)
         if len(parts) >= 3:
             parts[-1] = "1"
