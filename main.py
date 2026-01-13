@@ -30,7 +30,7 @@ except ImportError:
 # ================= 配置区（按需修改） =================
 INPUT_CSV = "thd.csv"
 
-WEIGHT = 100
+WEIGHT = 2000
 MIN_LEN = 999
 
 NAME_SEPARATOR = "·"
@@ -495,6 +495,22 @@ CUSTOM_PINYIN: dict[str, str] = {
     "鸟": "niao",
     "鹿": "lu",
     "龟": "gui",
+    "牢": "lao",
+    "包": "bao",
+    "半": "ban",
+    "堕": "duo",
+    "夹": "jia",
+    "扭": "niu",
+    "抱": "bao",
+    "炮": "pao",
+    "络": "luo",
+    "蚣": "gong",
+    "蛤": "ha",
+    "蟆": "ma",
+    "蹲": "dun",
+    "亲": "qin",
+    "抗": "kang",
+    "豚": "tun",
 }
 
 # 整词自定义拼音（最高优先级）
@@ -591,8 +607,48 @@ CUSTOM_WORD_PINYIN: dict[str, str] = {
     "藏人未见": "zang ren wei jian",
     "乐冢魇音": "le zhong yan yin",
     "六地藏千鹤": "liu di zang qian he",
-
+    "河童重工": "he tong zhong gong",
+    "幺乐团的历史": "yao yue tuan de li shi",
+    "禁系统": "jin xi tong",
+    "替身地藏": "ti shen di zang",
+    "鸟兽伎乐": "niao shou ji yue",
+    "置行堀": "zhi xing ku",
+    "上海爱丽丝幻乐团": "shang hai ai li si huan yue tuan",
 }
+
+extra = '''
+灵异传\tlyz\t10000
+封魔录\tfml\t10000
+梦时空\tmsk\t10000
+幻想乡\thxx\t10000
+怪绮谈\tgqt\t10000
+红魔乡\thmx\t10000
+妖妖梦\tyym\t10000
+萃梦想\tcmx\t10000
+永夜抄\tyyc\t10000
+花映塚\thyz\t10000
+文花帖\twht\t10000
+风神录\tfsl\t10000
+绯想天\tfxt\t10000
+地灵殿\tdld\t10000
+星莲船\txlc\t10000
+非想天则\tfxtz\t10000
+大战争\tdzz\t10000
+神灵庙\tslm\t10000
+心绮楼\txyl\t10000
+辉针城\thzc\t10000
+天邪鬼\ttxg\t10000
+深秘录\tsml\t10000
+绀珠传\tgzz\t10000
+凭依华\tpyh\t10000
+天空璋\ttkz\t10000
+噩梦日记\temrj\t10000
+鬼形兽\tgxs\t10000
+刚欲异闻\tgyyw\t10000
+虹龙洞\thld\t10000
+兽王园\tswy\t10000
+锦上京\tjsj\t10000
+'''
 # =====================================================
 
 
@@ -947,7 +1003,7 @@ def main() -> int:
     Path(OUT_SIMP).write_text("\n".join(simp_lines) + ("\n" if simp_lines else ""), encoding="utf-8")
 
     all_lines = full_lines + simp_lines
-    Path(OUT_ALL).write_text("\n".join(all_lines) + ("\n" if all_lines else ""), encoding="utf-8")
+    Path(OUT_ALL).write_text("\n".join(all_lines) + ("\n" if all_lines else "") + extra, encoding="utf-8")
 
     # output_ms：与 output_all 一致，但权重全部为 1
     ms_lines = []
