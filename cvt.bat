@@ -52,6 +52,15 @@ if errorlevel 1 (
   exit /b 1
 )
 
+REM 搜狗首字符不能是数字或字母，滤掉
+set "OUT_SOUGOU_TMP=%OUT_SOUGOU%.tmp"
+findstr /R /V "^[0-9A-Za-z]" "%OUT_SOUGOU%" > "%OUT_SOUGOU_TMP%"
+if errorlevel 1 (
+  echo [ERROR] filter sougou failed.
+  exit /b 1
+)
+move /Y "%OUT_SOUGOU_TMP%" "%OUT_SOUGOU%" >nul
+
 if not exist "%WIN10_SRC%" (
   echo [ERROR] Win10 source dat not found: %WIN10_SRC%
   exit /b 1
