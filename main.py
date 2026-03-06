@@ -1057,6 +1057,9 @@ CUSTOM_WORD_PINYIN: dict[str, str] = {
     "僵尸之爪": "jiang shi zhi zhao",
     "绝望之爪": "jue wang zhi zhao",
     "忘不了那曾依藉的绿意": "wang bu liao na ceng yi ji de lv yi",  # le->liao
+    "避弹": "bi dan",
+    "弹雾": "dan wu",
+    "穿弹雾": "chuan dan wu",
 }
 
 extra = '''
