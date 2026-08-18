@@ -632,6 +632,7 @@ CUSTOM_PINYIN: dict[str, str] = {
     "霸": "ba",
     "颈": "jing",
     "驮": "tuo",
+    "蛆": "qu",
 }
 
 # 整词自定义拼音（最高优先级）
@@ -1060,6 +1061,17 @@ CUSTOM_WORD_PINYIN: dict[str, str] = {
     "避弹": "bi dan",
     "弹雾": "dan wu",
     "穿弹雾": "chuan dan wu",
+    "弹设": "dan she",
+    "单帧": "dan zhen",
+    "单帧操作": "dan zhen cao zuo",
+    "宇宙巡航机": "yu zhou xun hang ji",
+    "长空超少年": "chang kong chao shao nian",
+    "宇巡": "yu xun",
+    "灵长新益京" :	"ling zhang xin yi jing",
+    "优雅而愉悦的犯罪" : "you ya er yu yue de fan zui",
+    "文化规划都市灵长新益京" : "wen hua gui hua du shi ling zhang xin yi jing",
+    "为尊重失败的人类再许二千年" : "wei zun zhong shi bai de ren lei zai xu er qian nian",
+    "秘封俱乐部" : "mi feng ju le bu",
 }
 
 extra = '''
